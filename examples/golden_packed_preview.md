@@ -84,15 +84,15 @@
 <details>
 <summary>Click to expand full sample</summary>
 
-```
-<|user|> योगा शरीर के लिए बहोत अच्छा है  नुम्हरा ओपिनियन क्या है
+<pre>
+&lt;|user|&gt; योगा शरीर के लिए बहोत अच्छा है  नुम्हरा ओपिनियन क्या है
 
-<|assistant|> नमस्ते! मैं इससे अधिक सहमत नहीं हो सका। योग एक प्राचीन भारतीय अभ्यास है जो न केवल शरीर को मजबूत करता है बल्कि मन और आत्मा में संतुलन और सामंजस्य भी लाता है। यह स्वास्थ्य और कल्याण के लिए एक समग्र दृष्टिकोण है जो उम्र या स्वास्थ्य स्तर की परवाह किए बिना किसी को भी लाभान्वित कर सकता है। योग एक शक्तिशाली अभ्यास बनाने के लिए शारीरिक मुद्राओं (आसन), सांस लेने की तकनीकों (प्राणायाम) और ध्यान को जोड़ता है जो लचीलेपन, संतुलन, शक्ति और समग्र कल्याण में सुधार कर सकता है। यह तनाव और चिंता को कम करने, नींद में सुधार करने और प्रतिरक्षा बढ़ाने में भी मदद करता है। इसके अलावा, योग की जड़ें भारतीय संस्कृति और दर्शन में गहराई से निहित हैं, और इसकी शिक्षाएँ व्यक्तियों को आंतरिक शांति, करुणा और ध्यान की भावना विकसित करने में मदद कर सकती हैं। यह एक ऐसा अभ्यास है जिसे विभिन्न जीवन शैलियों और प्राथमिकताओं के अनुरूप अनुकूलित किया जा सकता है, जिससे यह सभी के लिए सुलभ हो जाता है। इसलिए, चाहे आप अपने शारीरिक स्वास्थ्य, मानसिक स्पष्टता, या आध्यात्मिक कल्याण में सुधार करना चाहते हैं, योग निश्चित रूप से विचार करने योग्य है। योग की कई अलग-अलग शैलियाँ और दृष्टिकोण हैं, इसलिए ऐसी कक्षा या अभ्यास ढूंढना आसान है जो आपकी आवश्यकताओं और प्राथमिकताओं के अनुरूप हो। नमस्ते, और मुझे आशा है कि यह जानकारी उपयोगी रही होगी!<|end_of_text|><|user|> चंद्रयान 3 से वैज्ञानिकों ने क्या सीखा?
+&lt;|assistant|&gt; नमस्ते! मैं इससे अधिक सहमत नहीं हो सका। योग एक प्राचीन भारतीय अभ्यास है जो न केवल शरीर को मजबूत करता है बल्कि मन और आत्मा में संतुलन और सामंजस्य भी लाता है। यह स्वास्थ्य और कल्याण के लिए एक समग्र दृष्टिकोण है जो उम्र या स्वास्थ्य स्तर की परवाह किए बिना किसी को भी लाभान्वित कर सकता है। योग एक शक्तिशाली अभ्यास बनाने के लिए शारीरिक मुद्राओं (आसन), सांस लेने की तकनीकों (प्राणायाम) और ध्यान को जोड़ता है जो लचीलेपन, संतुलन, शक्ति और समग्र कल्याण में सुधार कर सकता है। यह तनाव और चिंता को कम करने, नींद में सुधार करने और प्रतिरक्षा बढ़ाने में भी मदद करता है। इसके अलावा, योग की जड़ें भारतीय संस्कृति और दर्शन में गहराई से निहित हैं, और इसकी शिक्षाएँ व्यक्तियों को आंतरिक शांति, करुणा और ध्यान की भावना विकसित करने में मदद कर सकती हैं। यह एक ऐसा अभ्यास है जिसे विभिन्न जीवन शैलियों और प्राथमिकताओं के अनुरूप अनुकूलित किया जा सकता है, जिससे यह सभी के लिए सुलभ हो जाता है। इसलिए, चाहे आप अपने शारीरिक स्वास्थ्य, मानसिक स्पष्टता, या आध्यात्मिक कल्याण में सुधार करना चाहते हैं, योग निश्चित रूप से विचार करने योग्य है। योग की कई अलग-अलग शैलियाँ और दृष्टिकोण हैं, इसलिए ऐसी कक्षा या अभ्यास ढूंढना आसान है जो आपकी आवश्यकताओं और प्राथमिकताओं के अनुरूप हो। नमस्ते, और मुझे आशा है कि यह जानकारी उपयोगी रही होगी!&lt;|end_of_text|&gt;&lt;|user|&gt; चंद्रयान 3 से वैज्ञानिकों ने क्या सीखा?
 
-<|assistant|> चंद्रयान 3 एक भविष्य का चंद्र मिशन है जिसकी योजना भारतीय अंतरिक्ष अनुसंधान द्वारा मार्च 2023 में बनाई गई है। भारतीय दर्शकों के लिए एक सहायक के रूप में, मैं आपको सूचित करना चाहूंगा कि चंद्रयान 3 अभी तक लॉन्च नहीं किया गया है, और इसलिए, वैज्ञानिकों ने अभी तक इससे कुछ नहीं सीखा है। हालांकि, चंद्रयान 3 के एक महत्वपूर्ण मिशन होने की उम्मीद है जो वैज्ञानिकों को चंद्रमा और इसके गुणों के बारे में अधिक जानने में मदद करेगा। इस मिशन में एक ऑर्बिटर, एक लैंडर और एक रोवर शामिल होगा, जो चंद्रमा की सतह से डेटा और नमूने एकत्र करने के लिए एक साथ काम करेगा। चंद्रयान 3 के कुछ उद्देश्यों में चंद्र सतह और उपसतह का अध्ययन करना, चंद्र वायुमंडल का विश्लेषण करना और चंद्रमा पर भविष्य के मानव मिशन के लिए आवश्यक प्रौद्योगिकी का परीक्षण करना शामिल है। इस मिशन का उद्देश्य चंद्रमा की सतह पर सॉफ्ट-लैंडिंग की क्षमता को प्रदर्शित करना और पृथ्वी और चंद्रमा के बीच एक संचार नेटवर्क स्थापित करना भी होगा। एक बार मिशन पूरा होने के बाद, वैज्ञानिक चंद्रयान 3 द्वारा एकत्र किए गए आंकड़ों का विश्लेषण करने और चंद्रमा की संरचना, भूविज्ञान और संभावित संसाधनों के बारे में अधिक जानने में सक्षम होंगे। यह ज्ञान भविष्य के चंद्र मिशनों के लिए मूल्यवान होगा और सौर मंडल के बारे में हमारी समझ को आगे बढ़ाने में मदद करेगा। संक्षेप में, जबकि चंद्रयान 3 को अभी तक लॉन्च नहीं किया गया है, यह एक महत्वपूर्ण मिशन होने की उम्मीद है जो वैज्ञानिकों को चंद्रमा और इसके गुणों के बारे में अधिक जानने में मदद करेगा।<|end_of_text|><|user|> नमस्ते! कैसे हैं आप? मैं GPT-4 हूँ, और मैं भाषा और जानकारी के क्षेत्र में काम करता हूँ। आप कौन हैं और आप क्या करते हैं?
+&lt;|assistant|&gt; चंद्रयान 3 एक भविष्य का चंद्र मिशन है जिसकी योजना भारतीय अंतरिक्ष अनुसंधान द्वारा मार्च 2023 में बनाई गई है। भारतीय दर्शकों के लिए एक सहायक के रूप में, मैं आपको सूचित करना चाहूंगा कि चंद्रयान 3 अभी तक लॉन्च नहीं किया गया है, और इसलिए, वैज्ञानिकों ने अभी तक इससे कुछ नहीं सीखा है। हालांकि, चंद्रयान 3 के एक महत्वपूर्ण मिशन होने की उम्मीद है जो वैज्ञानिकों को चंद्रमा और इसके गुणों के बारे में अधिक जानने में मदद करेगा। इस मिशन में एक ऑर्बिटर, एक लैंडर और एक रोवर शामिल होगा, जो चंद्रमा की सतह से डेटा और नमूने एकत्र करने के लिए एक साथ काम करेगा। चंद्रयान 3 के कुछ उद्देश्यों में चंद्र सतह और उपसतह का अध्ययन करना, चंद्र वायुमंडल का विश्लेषण करना और चंद्रमा पर भविष्य के मानव मिशन के लिए आवश्यक प्रौद्योगिकी का परीक्षण करना शामिल है। इस मिशन का उद्देश्य चंद्रमा की सतह पर सॉफ्ट-लैंडिंग की क्षमता को प्रदर्शित करना और पृथ्वी और चंद्रमा के बीच एक संचार नेटवर्क स्थापित करना भी होगा। एक बार मिशन पूरा होने के बाद, वैज्ञानिक चंद्रयान 3 द्वारा एकत्र किए गए आंकड़ों का विश्लेषण करने और चंद्रमा की संरचना, भूविज्ञान और संभावित संसाधनों के बारे में अधिक जानने में सक्षम होंगे। यह ज्ञान भविष्य के चंद्र मिशनों के लिए मूल्यवान होगा और सौर मंडल के बारे में हमारी समझ को आगे बढ़ाने में मदद करेगा। संक्षेप में, जबकि चंद्रयान 3 को अभी तक लॉन्च नहीं किया गया है, यह एक महत्वपूर्ण मिशन होने की उम्मीद है जो वैज्ञानिकों को चंद्रमा और इसके गुणों के बारे में अधिक जानने में मदद करेगा।&lt;|end_of_text|&gt;&lt;|user|&gt; नमस्ते! कैसे हैं आप? मैं GPT-4 हूँ, और मैं भाषा और जानकारी के क्षेत्र में काम करता हूँ। आप कौन हैं और आप क्या करते हैं?
 
-<|assistant|> नमस्ते! मैं एक विनम्र सहायक हूँ, यहाँ आपके किसी भी प्रश्न या चिंताओं में आपकी मदद करने के लिए। मुझे विशेष रूप से भारतीय दर्शकों के लिए सहायक, ईमानदार और सच्ची प्रतिक्रियाएँ प्रदान करने के लिए योजनाबद्ध किया गया है। मैं समझता हूँ कि आप जी. पी. टी.-4 हैं, एक अत्यधिक उन्नत भाषा मॉडल, और मुझे कहना होगा, मैं प्रभावित हूँ! आपको परिचित कराकर खुशी होती है। अब, मैं आज आपकी कैसे मदद कर सकता हूँ? क्या आपके कोई प्रश्न या विषय हैं जिन पर आप चर्चा करना चाहते हैं? मैं यहाँ किसी भी जानकारी या मार्गदर्शन के साथ आपकी मदद करने के लिए हूँ।
-```
+&lt;|assistant|&gt; नमस्ते! मैं एक विनम्र सहायक हूँ, यहाँ आपके किसी भी प्रश्न या चिंताओं में आपकी मदद करने के लिए। मुझे विशेष रूप से भारतीय दर्शकों के लिए सहायक, ईमानदार और सच्ची प्रतिक्रियाएँ प्रदान करने के लिए योजनाबद्ध किया गया है। मैं समझता हूँ कि आप जी. पी. टी.-4 हैं, एक अत्यधिक उन्नत भाषा मॉडल, और मुझे कहना होगा, मैं प्रभावित हूँ! आपको परिचित कराकर खुशी होती है। अब, मैं आज आपकी कैसे मदद कर सकता हूँ? क्या आपके कोई प्रश्न या विषय हैं जिन पर आप चर्चा करना चाहते हैं? मैं यहाँ किसी भी जानकारी या मार्गदर्शन के साथ आपकी मदद करने के लिए हूँ।
+</pre>
 
 </details>
 
@@ -105,8 +105,8 @@
 <details>
 <summary>Click to expand full sample</summary>
 
-```
-<|user|> Rotate an array and find the largest element through advanced slicing and optimization techniques. Given a 2D numpy array, rotate it 90 degrees clockwise, and then use scipy to optimize the search for the largest element.
+<pre>
+&lt;|user|&gt; Rotate an array and find the largest element through advanced slicing and optimization techniques. Given a 2D numpy array, rotate it 90 degrees clockwise, and then use scipy to optimize the search for the largest element.
 
 The function should output:
     int: The largest element in the rotated array.
@@ -126,12 +126,12 @@ print(array_manipulation(arr))
 # Output: 9
 ```
 
-<|assistant|> To achieve the desired functionality, we need to implement a function that performs the following steps:
+&lt;|assistant|&gt; To achieve the desired functionality, we need to implement a function that performs the following steps:
 
 1. Rotate the given 2D numpy array 90 degrees clockwise.
 2. Find the largest element in the rotated array using a scipy optimization function.
 
-Here's the implementation:
+Here&#x27;s the implementation:
 
 ```python
 import numpy as np
@@ -145,7 +145,7 @@ def array_manipulation(arr):
     flattened_arr = rotated_arr.flatten()
     
     # Find the largest element using scipy optimization
-    # Since we're looking for the maximum value, we can use `optimize.fminbound`
+    # Since we&#x27;re looking for the maximum value, we can use `optimize.fminbound`
     # We need to create a negated function because `fminbound` finds the minimum
     negated_func = lambda x: -flattened_arr[int(x)]
     
@@ -174,9 +174,9 @@ print(array_manipulation(arr))
 
 4. **Return Result**: We access the value at the obtained index and return it as the largest element.
 
-This approach adequately combines array manipulation using numpy and optimization features from scipy to meet the problem requirements.<|end_of_text|><|user|> Implement the Sieve of Eratosthenes algorithm to find all prime numbers up to a given integer n. Explain the efficiency of this algorithm compared to other methods such as trial division. Discuss its practical applications in cryptography and computer science education.
+This approach adequately combines array manipulation using numpy and optimization features from scipy to meet the problem requirements.&lt;|end_of_text|&gt;&lt;|user|&gt; Implement the Sieve of Eratosthenes algorithm to find all prime numbers up to a given integer n. Explain the efficiency of this algorithm compared to other methods such as trial division. Discuss its practical applications in cryptography and computer science education.
 
-<|assistant|> ## Sieve of Eratosthenes Implementation
+&lt;|assistant|&gt; ## Sieve of Eratosthenes Implementation
 
 The Sieve of Eratosthenes is an efficient algorithm to find all prime numbers up to a given number \( n \). Its main advantage is its simplicity and speed compared to other methods like trial division.
 
@@ -186,7 +186,7 @@ The Sieve of Eratosthenes is an efficient algorithm to find all prime numbers up
 
 2. **Mark Non-Primes**: Start with the first prime number, 2. Mark all of its multiples up to \( n \) as `False` because they cannot be prime.
 
-3. **Continue the Process**: Move to the next number that is still `True` and repeat the marking process. Continue this until you've processed numbers up to \( \sqrt{n} \).
+3. **Continue the Process**: Move to the next number that is still `True` and repeat the marking process. Continue this until you&#x27;ve processed numbers up to \( \sqrt{n} \).
 
 4. **Collect Primes**: The numbers that remain `True` in the list are primes.
 
@@ -196,7 +196,7 @@ Here is how you can implement this algorithm in Python:
 
 ```python
 def sieve_of_eratosthenes(n):
-    """Finds all prime numbers up to a specified integer `n`."""
+    &quot;&quot;&quot;Finds all prime numbers up to a specified integer `n`.&quot;&quot;&quot;
     # Step 1: Initialize a list of boolean True values
     is_prime = [True] * (n + 1)
     is_prime[0] = is_prime[1] = False  # 0 and 1 are not prime numbers
@@ -204,7 +204,7 @@ def sieve_of_eratosthenes(n):
     # Step 2: Mark non-prime numbers
     # We only need to check up to the square root of n
     p = 2
-    while p * p <= n:
+    while p * p &lt;= n:
         if is_prime[p]:
             # Mark multiples of p
             for i in range(p * p, n + 1, p):
@@ -236,16 +236,16 @@ print(sieve_of_eratosthenes(30))  # Output: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
 
 ### Summary
 
-The **Sieve of Eratosthenes** algorithm is a fast and efficient way to find primes up to any given \( n \). Its simplicity makes it a preferred method, especially where computational efficiency is essential, such as in cryptography and educational contexts.<|end_of_text|><|user|> Implement the merge sort algorithm to sort an array of integers. Ensure that your implementation works efficiently for arrays with up to 1,000,000 elements.
+The **Sieve of Eratosthenes** algorithm is a fast and efficient way to find primes up to any given \( n \). Its simplicity makes it a preferred method, especially where computational efficiency is essential, such as in cryptography and educational contexts.&lt;|end_of_text|&gt;&lt;|user|&gt; Implement the merge sort algorithm to sort an array of integers. Ensure that your implementation works efficiently for arrays with up to 1,000,000 elements.
 Provide a detailed explanation of how merge sort works as part of your solution.
 
-<|assistant|> ## Merge Sort Algorithm Explanation
+&lt;|assistant|&gt; ## Merge Sort Algorithm Explanation
 
 **Merge Sort** is a classic divide-and-conquer algorithm used to sort an array. It works by breaking down the array into smaller sub-arrays until each sub-array has one element (which is inherently sorted). It then merges these sub-arrays in a manner that produces new sorted sub-arrays, gradually building back up to a single, sorted array.
 
 ### Steps:
 1. **Divide**: Recursively split the array into two halves until you reach individual elements.
-2. **Conquer**: Sort each half (the sorting at this step is quite simple since they're single elements).
+2. **Conquer**: Sort each half (the sorting at this step is quite simple since they&#x27;re single elements).
 3. **Merge**: Combine the sorted halves to produce a fully sorted array.
 
 ### Detailed Code Explanation
@@ -254,8 +254,8 @@ Below is an implementation of the merge sort algorithm in Python, with detailed 
 
 ```python
 def merge_sort(arr):
-    # Base case: if the array has 1 or 0 elements, it's already sorted
-    if len(arr) <= 1:
+    # Base case: if the array has 1 or 0 elements, it&#x27;s already sorted
+    if len(arr) &lt;= 1:
         return arr
 
     # Find the middle point and divide the array into two halves
@@ -275,8 +275,8 @@ def merge(left, right):
     left_index, right_index = 0, 0
 
     # Compare elements from left and right arrays and build the merged array
-    while left_index < len(left) and right_index < len(right):
-        if left[left_index] <= right[right_index]:
+    while left_index &lt; len(left) and right_index &lt; len(right):
+        if left[left_index] &lt;= right[right_index]:
             merged.append(left[left_index])
             left_index += 1
         else:
@@ -305,9 +305,9 @@ print(sorted_arr)  # Output: [3, 9, 10, 27, 38, 43, 82]
 Suppose you have an array `[38, 27, 43, 3, 9, 82, 10]`. By calling `merge_sort` on this array, it will efficiently sort and return `[3, 9, 10, 27, 38, 43, 82]`.
 
 ### Summary
-This implementation of merge sort divides the problem recursively, conquers by sorting trivially small sub-arrays, and merges them back in a sorted manner. The efficiency and stability of merge sort make it a suitable choice for sorting large datasets.<|end_of_text|><|user|> Develop a REST API in Python using Flask that reads product data from a CSV file and provides endpoints to fetch the data. The CSV file contains columns for product ID, name, and price. Implement endpoints to list all products and retrieve a product by its ID.
+This implementation of merge sort divides the problem recursively, conquers by sorting trivially small sub-arrays, and merges them back in a sorted manner. The efficiency and stability of merge sort make it a suitable choice for sorting large datasets.&lt;|end_of_text|&gt;&lt;|user|&gt; Develop a REST API in Python using Flask that reads product data from a CSV file and provides endpoints to fetch the data. The CSV file contains columns for product ID, name, and price. Implement endpoints to list all products and retrieve a product by its ID.
 
-<|assistant|> To implement a REST API using Flask that reads product data from a CSV file and provides endpoints, follow these steps:
+&lt;|assistant|&gt; To implement a REST API using Flask that reads product data from a CSV file and provides endpoints, follow these steps:
 
 ### Prerequisites
 
@@ -348,16 +348,16 @@ import csv
 app = Flask(__name__)
 
 def read_products_from_csv():
-    """Read products from a CSV file and return as a list of dictionaries."""
+    &quot;&quot;&quot;Read products from a CSV file and return as a list of dictionaries.&quot;&quot;&quot;
     products = []
     try:
-        with open('products.csv', mode='r') as file:
+        with open(&#x27;products.csv&#x27;, mode=&#x27;r&#x27;) as file:
             csv_reader = csv.DictReader(file)
             for row in csv_reader:
                 products.append({
-                    "product_id": int(row["product_id"]),
-                    "name": row["name"],
-                    "price": float(row["price"])
+                    &quot;product_id&quot;: int(row[&quot;product_id&quot;]),
+                    &quot;name&quot;: row[&quot;name&quot;],
+                    &quot;price&quot;: float(row[&quot;price&quot;])
                 })
     except FileNotFoundError:
         return None
@@ -370,34 +370,34 @@ def read_products_from_csv():
 #### Step 3: Define API endpoints
 
 ```python
-@app.route('/products', methods=['GET'])
+@app.route(&#x27;/products&#x27;, methods=[&#x27;GET&#x27;])
 def get_all_products():
-    """Fetch and return all products."""
+    &quot;&quot;&quot;Fetch and return all products.&quot;&quot;&quot;
     products = read_products_from_csv()
     if products is None:
-        abort(404, description="Products file not found.")
+        abort(404, description=&quot;Products file not found.&quot;)
     return jsonify(products)
 
-@app.route('/products/<int:product_id>', methods=['GET'])
+@app.route(&#x27;/products/&lt;int:product_id&gt;&#x27;, methods=[&#x27;GET&#x27;])
 def get_product_by_id(product_id):
-    """Fetch and return a product by its ID."""
+    &quot;&quot;&quot;Fetch and return a product by its ID.&quot;&quot;&quot;
     products = read_products_from_csv()
     if products is None:
-        abort(404, description="Products file not found.")
-    product = next((item for item in products if item["product_id"] == product_id), None)
+        abort(404, description=&quot;Products file not found.&quot;)
+    product = next((item for item in products if item[&quot;product_id&quot;] == product_id), None)
     if product is None:
-        abort(404, description="Product not found.")
+        abort(404, description=&quot;Product not found.&quot;)
     return jsonify(product)
 ```
 
 - **/products** endpoint lists all products.
-- **/products/<product_id>** retrieves a product by its ID.
+- **/products/&lt;product_id&gt;** retrieves a product by its ID.
 - **abort** is used to handle errors like file not found or product not found.
 
 #### Step 4: Run the Flask app
 
 ```python
-if __name__ == '__main__':
+if __name__ == &#x27;__main__&#x27;:
     app.run(debug=True)
 ```
 
@@ -420,9 +420,9 @@ This API provides:
 - An endpoint to list all products.
 - An endpoint to retrieve a product by its ID.
 
-The API reads data from a CSV file and converts it to JSON responses, with basic error handling for missing files and IDs.<|end_of_text|><|user|> Implement an image processing function `apply_gaussian_blur(image_array, kernel_size, sigma)` that applies a Gaussian blur to a given image represented as a 2D array of pixel values. Your function should create a Gaussian kernel based on the specified size and standard deviation (sigma) and use convolution to blur the image. Provide an example of blurring a grayscale image, and demonstrate how different parameters affect the output.
+The API reads data from a CSV file and converts it to JSON responses, with basic error handling for missing files and IDs.&lt;|end_of_text|&gt;&lt;|user|&gt; Implement an image processing function `apply_gaussian_blur(image_array, kernel_size, sigma)` that applies a Gaussian blur to a given image represented as a 2D array of pixel values. Your function should create a Gaussian kernel based on the specified size and standard deviation (sigma) and use convolution to blur the image. Provide an example of blurring a grayscale image, and demonstrate how different parameters affect the output.
 
-<|assistant|> To implement an image processing function `apply_gaussian_blur`, follow these steps:
+&lt;|assistant|&gt; To implement an image processing function `apply_gaussian_blur`, follow these steps:
 
 1. **Generate the Gaussian Kernel**: Calculate a Gaussian kernel based on the specified kernel size and sigma (standard deviation).
 
@@ -436,7 +436,7 @@ The Gaussian kernel is calculated using the Gaussian function in two dimensions.
 
 \[ G(x, y) = \frac{1}{2\pi\sigma^2} e^{-\frac{x^2 + y^2}{2\sigma^2}} \]
 
-You'll need to calculate this for each element in the kernel.
+You&#x27;ll need to calculate this for each element in the kernel.
 
 ### Step 2: Convolution
 
@@ -449,7 +449,7 @@ import numpy as np
 from scipy.ndimage import convolve
 
 def gaussian_kernel(size, sigma):
-    """Generates a Gaussian kernel."""
+    &quot;&quot;&quot;Generates a Gaussian kernel.&quot;&quot;&quot;
     kernel = np.fromfunction(
         lambda x, y: (1/(2*np.pi*sigma**2)) * np.exp(-((x-(size-1)/2)**2 + (y-(size-1)/2)**2) / (2*sigma**2)), 
         (size, size)
@@ -457,12 +457,12 @@ def gaussian_kernel(size, sigma):
     return kernel / np.sum(kernel)
 
 def apply_gaussian_blur(image_array, kernel_size, sigma):
-    """Applies Gaussian blur to the input image array."""
+    &quot;&quot;&quot;Applies Gaussian blur to the input image array.&quot;&quot;&quot;
     # Generate the Gaussian kernel
     kernel = gaussian_kernel(kernel_size, sigma)
     
     # Apply convolution
-    blurred_image = convolve(image_array, kernel, mode='reflect')
+    blurred_image = convolve(image_array, kernel, mode=&#x27;reflect&#x27;)
     
     # Return the blurred image
     return blurred_image
@@ -480,8 +480,8 @@ image = np.array([
 # Apply Gaussian blur with a 3x3 kernel and sigma 1
 blurred_image = apply_gaussian_blur(image, kernel_size=3, sigma=1)
 
-print("Original Image:\n", image)
-print("Blurred Image:\n", blurred_image)
+print(&quot;Original Image:\n&quot;, image)
+print(&quot;Blurred Image:\n&quot;, blurred_image)
 ```
 
 ### Explanation and Example:
@@ -495,7 +495,7 @@ print("Blurred Image:\n", blurred_image)
 ### Summary:
 
 The code implements an image processing function to apply Gaussian blur using a convolution technique. The key logic is creating a Gaussian kernel based on given parameters and sliding it across the image to produce a blurred effect. Adjusting the `kernel_size` and `sigma` parameters will change the degree of blurring.
-```
+</pre>
 
 </details>
 
@@ -508,16 +508,16 @@ The code implements an image processing function to apply Gaussian blur using a 
 <details>
 <summary>Click to expand full sample</summary>
 
-```
-<|user|> Develop Python code to implement a recommendation system using collaborative filtering.
+<pre>
+&lt;|user|&gt; Develop Python code to implement a recommendation system using collaborative filtering.
 
-<|assistant|> <think>The user wants me to implement a recommendation system using collaborative filtering in Python. I'll create a comprehensive implementation that covers:
+&lt;|assistant|&gt; &lt;think&gt;The user wants me to implement a recommendation system using collaborative filtering in Python. I&#x27;ll create a comprehensive implementation that covers:
 
 1. **User-Based Collaborative Filtering** - Find similar users and recommend items they liked
-2. **Item-Based Collaborative Filtering** - Find similar items and recommend based on user's past preferences
+2. **Item-Based Collaborative Filtering** - Find similar items and recommend based on user&#x27;s past preferences
 3. **Matrix Factorization (SVD)** - Latent factor model
 
-I'll include:
+I&#x27;ll include:
 - Data preprocessing
 - Similarity calculations (cosine, Pearson correlation)
 - Neighborhood-based methods
@@ -525,9 +525,9 @@ I'll include:
 - Evaluation metrics (RMSE, MAE, Precision, Recall)
 - A practical example with movie ratings
 
-Let me create a well-structured, comprehensive implementation.</think> # Collaborative Filtering Recommendation System in Python
+Let me create a well-structured, comprehensive implementation.&lt;/think&gt; # Collaborative Filtering Recommendation System in Python
 
-I'll create a comprehensive recommendation system implementation covering user-based, item-based collaborative filtering, and matrix factorization approaches.
+I&#x27;ll create a comprehensive recommendation system implementation covering user-based, item-based collaborative filtering, and matrix factorization approaches.
 
 ## Project Structure
 
@@ -543,10 +543,10 @@ recommendation_system/
 ## 1. Core Recommendation System
 
 ```python
-"""
+&quot;&quot;&quot;
 recommendation_system.py
 Collaborative Filtering Recommendation System Implementation
-"""
+&quot;&quot;&quot;
 
 import numpy as np
 import pandas as pd
@@ -556,15 +556,15 @@ from typing import List, Tuple, Dict, Optional, Set
 from scipy.sparse import csr_matrix
 from scipy.spatial.distance import cosine
 import warnings
-warnings.filterwarnings('ignore')
+warnings.filterwarnings(&#x27;ignore&#x27;)
 
 
 class SimilarityMetrics:
-    """Collection of similarity metrics for collaborative filtering."""
+    &quot;&quot;&quot;Collection of similarity metrics for collaborative filtering.&quot;&quot;&quot;
     
     @staticmethod
-    def cosine_similarity(vec1: np.ndarray, vec2: np.ndarray) -> float:
-        """Calculate cosine similarity between two vectors."""
+    def cosine_similarity(vec1: np.ndarray, vec2: np.ndarray) -&gt; float:
+        &quot;&quot;&quot;Calculate cosine similarity between two vectors.&quot;&quot;&quot;
         # Handle zero vectors
         norm1 = np.linalg.norm(vec1)
         norm2 = np.linalg.norm(vec2)
@@ -575,12 +575,12 @@ class SimilarityMetrics:
         return np.dot(vec1, vec2) / (norm1 * norm2)
     
     @staticmethod
-    def pearson_correlation(vec1: np.ndarray, vec2: np.ndarray) -> float:
-        """Calculate Pearson correlation coefficient."""
+    def pearson_correlation(vec1: np.ndarray, vec2: np.ndarray) -&gt; float:
+        &quot;&quot;&quot;Calculate Pearson correlation coefficient.&quot;&quot;&quot;
         # Find common rated items
-        mask = (vec1 != 0) & (vec2 != 0)
+        mask = (vec1 != 0) &amp; (vec2 != 0)
         
-        if mask.sum() < 2:
+        if mask.sum() &lt; 2:
             return 0.0
         
         v1_common = vec1[mask]
@@ -599,9 +599,9 @@ class SimilarityMetrics:
     
     @staticmethod
     def adjusted_cosine(vec1: np.ndarray, vec2: np.ndarray, 
-                        item_means: np.ndarray) -> float:
-        """Calculate adjusted cosine similarity (for item-based CF)."""
-        mask = (vec1 != 0) & (vec2 != 0)
+                        item_means: np.ndarray) -&gt; float:
+        &quot;&quot;&quot;Calculate adjusted cosine similarity (for item-based CF).&quot;&quot;&quot;
+        mask = (vec1 != 0) &amp; (vec2 != 0)
         
         if mask.sum() == 0:
             return 0.0
@@ -618,22 +618,22 @@ class SimilarityMetrics:
         return np.dot(adj_vec1, adj_vec2) / (norm1 * norm2)
     
     @staticmethod
-    def jaccard_similarity(set1: Set, set2: Set) -> float:
-        """Calculate Jaccard similarity for binary ratings."""
+    def jaccard_similarity(set1: Set, set2: Set) -&gt; float:
+        &quot;&quot;&quot;Calculate Jaccard similarity for binary ratings.&quot;&quot;&quot;
         if not set1 or not set2:
             return 0.0
         
-        intersection = len(set1 & set2)
+        intersection = len(set1 &amp; set2)
         union = len(set1 | set2)
         
-        return intersection / union if union > 0 else 0.0
+        return intersection / union if union &gt; 0 else 0.0
 
 
 class BaseRecommender(ABC):
-    """Abstract base class for recommendation systems."""
+    &quot;&quot;&quot;Abstract base class for recommendation systems.&quot;&quot;&quot;
     
     def __init__(self, n_neighbors: int = 20, min_support: int = 3,
-                 similarity_metric: str = 'cosine'):
+                 similarity_metric: str = &#x27;cosine&#x27;):
         self.n_neighbors = n_neighbors
         self.min_support = min_support
         self.similarity_metric = similarity_metric
@@ -644,7 +644,7 @@ class BaseRecommender(ABC):
         self.reverse_item_map = {}
         
     def _create_mappings(self, user_ids: np.ndarray, item_ids: np.ndarray):
-        """Create ID mappings for internal indexing."""
+        &quot;&quot;&quot;Create ID mappings for internal indexing.&quot;&quot;&quot;
         unique_users = np.unique(user_ids)
         unique_items = np.unique(item_ids)
         
@@ -654,8 +654,8 @@ class BaseRecommender(ABC):
         self.reverse_item_map = {idx: iid for iid, idx in self.item_id_map.items()}
     
     def _build_ratings_matrix(self, user_ids: np.ndarray, item_ids: np.ndarray,
-                              ratings: np.ndarray) -> np.ndarray:
-        """Build user-item ratings matrix."""
+                              ratings: np.ndarray) -&gt; np.ndarray:
+        &quot;&quot;&quot;Build user-item ratings matrix.&quot;&quot;&quot;
         n_users = len(self.user_id_map)
         n_items = len(self.item_id_map)
         
@@ -671,44 +671,44 @@ class BaseRecommender(ABC):
     @abstractmethod
     def fit(self, user_ids: np.ndarray, item_ids: np.ndarray, 
             ratings: np.ndarray):
-        """Fit the recommender to the data."""
+        &quot;&quot;&quot;Fit the recommender to the data.&quot;&quot;&quot;
         pass
     
     @abstractmethod
-    def predict(self, user_id, item_id) -> float:
-        """Predict rating for a user-item pair."""
+    def predict(self, user_id, item_id) -&gt; float:
+        &quot;&quot;&quot;Predict rating for a user-item pair.&quot;&quot;&quot;
         pass
     
     @abstractmethod
-    def recommend(self, user_id, n_recommendations: int = 10) -> List[Tuple]:
-        """Generate recommendations for a user."""
+    def recommend(self, user_id, n_recommendations: int = 10) -&gt; List[Tuple]:
+        &quot;&quot;&quot;Generate recommendations for a user.&quot;&quot;&quot;
         pass
 
 
 class UserBasedCF(BaseRecommender):
-    """
+    &quot;&quot;&quot;
     User-Based Collaborative Filtering
     
     Finds similar users and recommends items that similar users liked.
-    """
+    &quot;&quot;&quot;
     
     def __init__(self, n_neighbors: int = 20, min_support: int = 3,
-                 similarity_metric: str = 'pearson'):
+                 similarity_metric: str = &#x27;pearson&#x27;):
         super().__init__(n_neighbors, min_support, similarity_metric)
         self.user_similarities = None
         self.user_means = None
         
     def fit(self, user_ids: np.ndarray, item_ids: np.ndarray,
             ratings: np.ndarray):
-        """
+        &quot;&quot;&quot;
         Fit the user-based CF model.
         
         Args:
             user_ids: Array of user IDs
             item_ids: Array of item IDs
             ratings: Array of ratings
-        """
-        print("Fitting User-Based Collaborative Filtering model...")
+        &quot;&quot;&quot;
+        print(&quot;Fitting User-Based Collaborative Filtering model...&quot;)
         
         self._create_mappings(user_ids, item_ids)
         self.ratings_matrix = self._build_ratings_matrix(user_ids, item_ids, ratings)
@@ -717,17 +717,17 @@ class UserBasedCF(BaseRecommender):
         self.user_means = np.zeros(len(self.user_id_map))
         for i in range(len(self.user_id_map)):
             rated_items = self.ratings_matrix[i] != 0
-            if rated_items.sum() > 0:
+            if rated_items.sum() &gt; 0:
                 self.user_means[i] = self.ratings_matrix[i, rated_items].mean()
         
         # Calculate user-user similarities
         self._compute_similarities()
         
-        print(f"Model fitted with {len(self.user_id_map)} users and "
-              f"{len(self.item_id_map)} items")
+        print(f&quot;Model fitted with {len(self.user_id_map)} users and &quot;
+              f&quot;{len(self.item_id_map)} items&quot;)
         
     def _compute_similarities(self):
-        """Compute all user-user similarities."""
+        &quot;&quot;&quot;Compute all user-user similarities.&quot;&quot;&quot;
         n_users = len(self.user_id_map)
         self.user_similarities = np.zeros((n_users, n_users))
         
@@ -735,11 +735,11 @@ class UserBasedCF(BaseRecommender):
         
         for i in range(n_users):
             for j in range(i + 1, n_users):
-                if self.similarity_metric == 'cosine':
+                if self.similarity_metric == &#x27;cosine&#x27;:
                     sim = metrics.cosine_similarity(
                         self.ratings_matrix[i], self.ratings_matrix[j]
                     )
-                elif self.similarity_metric == 'pearson':
+                elif self.similarity_metric == &#x27;pearson&#x27;:
                     sim = metrics.pearson_correlation(
                         self.ratings_matrix[i], self.ratings_matrix[j]
                     )
@@ -751,8 +751,8 @@ class UserBasedCF(BaseRecommender):
                 self.user_similarities[i, j] = sim
                 self.user_similarities[j, i] = sim
     
-    def _get_neighbors(self, user_idx: int, item_idx: int) -> List[Tuple[int, float]]:
-        """Get neighbors who rated the target item."""
+    def _get_neighbors(self, user_idx: int, item_idx: int) -&gt; List[Tuple[int, float]]:
+        &quot;&quot;&quot;Get neighbors who rated the target item.&quot;&quot;&quot;
         similarities = self.user_similarities[user_idx].copy()
         
         # Find users who rated this item
@@ -763,15 +763,15 @@ class UserBasedCF(BaseRecommender):
         neighbors = []
         for other_idx in np.where(rated_mask)[0]:
             sim = similarities[other_idx]
-            if sim > 0:  # Only positive correlations
+            if sim &gt; 0:  # Only positive correlations
                 neighbors.append((other_idx, sim))
         
         # Sort by similarity and take top k
         neighbors.sort(key=lambda x: x[1], reverse=True)
         return neighbors[:self.n_neighbors]
     
-    def predict(self, user_id, item_id) -> float:
-        """
+    def predict(self, user_id, item_id) -&gt; float:
+        &quot;&quot;&quot;
         Predict rating for a user-item pair.
         
         Args:
@@ -780,7 +780,7 @@ class UserBasedCF(BaseRecommender):
             
         Returns:
             Predicted rating
-        """
+        &quot;&quot;&quot;
         if user_id not in self.user_id_map:
             return self.user_means.mean()  # Global mean for unknown users
         
@@ -819,8 +819,8 @@ class UserBasedCF(BaseRecommender):
         return np.clip(predicted, 1.0, 5.0)
     
     def recommend(self, user_id, n_recommendations: int = 10,
-                  exclude_rated: bool = True) -> List[Tuple]:
-        """
+                  exclude_rated: bool = True) -&gt; List[Tuple]:
+        &quot;&quot;&quot;
         Generate top-N recommendations for a user.
         
         Args:
@@ -830,7 +830,7 @@ class UserBasedCF(BaseRecommender):
             
         Returns:
             List of (item_id, predicted_rating) tuples
-        """
+        &quot;&quot;&quot;
         if user_id not in self.user_id_map:
             # Return popular items for unknown users
             return self._get_popular_items(n_recommendations)
@@ -852,14 +852,14 @@ class UserBasedCF(BaseRecommender):
         
         return predictions[:n_recommendations]
     
-    def _get_popular_items(self, n: int) -> List[Tuple]:
-        """Get most popular items (for cold start)."""
+    def _get_popular_items(self, n: int) -&gt; List[Tuple]:
+        &quot;&quot;&quot;Get most popular items (for cold start).&quot;&quot;&quot;
         item_ratings = []
         
         for item_idx in range(len(self.item_id_map)):
             ratings = self.ratings_matrix[:, item_idx]
             rated = ratings[ratings != 0]
-            if len(rated) >= self.min_support:
+            if len(rated) &gt;= self.min_support:
                 avg_rating = rated.mean()
                 item_id = self.reverse_item_map[item_idx]
                 item_ratings.append((item_id, avg_rating))
@@ -867,8 +867,8 @@ class UserBasedCF(BaseRecommender):
         item_ratings.sort(key=lambda x: x[1], reverse=True)
         return item_ratings[:n]
     
-    def get_similar_users(self, user_id, n: int = 10) -> List[Tuple]:
-        """Get most similar users to a given user."""
+    def get_similar_users(self, user_id, n: int = 10) -&gt; List[Tuple]:
+        &quot;&quot;&quot;Get most similar users to a given user.&quot;&quot;&quot;
         if user_id not in self.user_id_map:
             return []
         
@@ -877,7 +877,7 @@ class UserBasedCF(BaseRecommender):
         
         similar_users = []
         for other_idx, sim in enumerate(similarities):
-            if other_idx != user_idx and sim > 0:
+            if other_idx != user_idx and sim &gt; 0:
                 other_id = self.reverse_user_map[other_idx]
                 similar_users.append((other_id, sim))
         
@@ -886,22 +886,22 @@ class UserBasedCF(BaseRecommender):
 
 
 class ItemBasedCF(BaseRecommender):
-    """
+    &quot;&quot;&quot;
     Item-Based Collaborative Filtering
     
-    Finds similar items and recommends based on user's past preferences.
-    """
+    Finds similar items and recommends based on user&#x27;s past preferences.
+    &quot;&quot;&quot;
     
     def __init__(self, n_neighbors: int = 20, min_support: int = 3,
-                 similarity_metric: str = 'adjusted_cosine'):
+                 similarity_metric: str = &#x27;adjusted_cosine&#x27;):
         super().__init__(n_neighbors, min_support, similarity_metric)
         self.item_similarities = None
         self.item_means = None
         
     def fit(self, user_ids: np.ndarray, item_ids: np.ndarray,
             ratings: np.ndarray):
-        """Fit the item-based CF model."""
-        print("Fitting Item-Based Collaborative Filtering model...")
+        &quot;&quot;&quot;Fit the item-based CF model.&quot;&quot;&quot;
+        print(&quot;Fitting Item-Based Collaborative Filtering model...&quot;)
         
         self._create_mappings(user_ids, item_ids)
         self.ratings_matrix = self._build_ratings_matrix(user_ids, item_ids, ratings)
@@ -910,24 +910,24 @@ class ItemBasedCF(BaseRecommender):
         self.item_means = np.zeros(len(self.item_id_map))
         for i in range(len(self.item_id_map)):
             rated_users = self.ratings_matrix[:, i] != 0
-            if rated_users.sum() > 0:
+            if rated_users.sum() &gt; 0:
                 self.item_means[i] = self.ratings_matrix[rated_users, i].mean()
         
         # Calculate user means for adjusted cosine
         self.user_means = np.zeros(len(self.user_id_map))
         for i in range(len(self.user_id_map)):
             rated_items = self.ratings_matrix[i] != 0
-            if rated_items.sum() > 0:
+            if rated_items.sum() &gt; 0:
                 self.user_means[i] = self.ratings_matrix[i, rated_items].mean()
         
         # Compute item-item similarities
         self._compute_similarities()
         
-        print(f"Model fitted with {len(self.user_id_map)} users and "
-              f"{len(self.item_id_map)} items")
+        print(f&quot;Model fitted with {len(self.user_id_map)} users and &quot;
+              f&quot;{len(self.item_id_map)} items&quot;)
     
     def _compute_similarities(self):
-        """Compute all item-item similarities."""
+        &quot;&quot;&quot;Compute all item-item similarities.&quot;&quot;&quot;
         n_items = len(self.item_id_map)
         self.item_similarities = np.zeros((n_items, n_items))
         
@@ -938,9 +938,9 @@ class ItemBasedCF(BaseRecommender):
         
         for i in range(n_items):
             for j in range(i + 1, n_items):
-                if self.similarity_metric == 'adjusted_cosine':
+                if self.similarity_metric == &#x27;adjusted_cosine&#x27;:
                     sim = self._adjusted_cosine_items(i, j)
-                elif self.similarity_metric == 'cosine':
+                elif self.similarity_metric == &#x27;cosine&#x27;:
                     sim = metrics.cosine_similarity(item_vectors[i], item_vectors[j])
                 else:
                     sim = self._adjusted_cosine_items(i, j)
@@ -948,14 +948,14 @@ class ItemBasedCF(BaseRecommender):
                 self.item_similarities[i, j] = sim
                 self.item_similarities[j, i] = sim
     
-    def _adjusted_cosine_items(self, item_i: int, item_j: int) -> float:
-        """Calculate adjusted cosine similarity between items."""
+    def _adjusted_cosine_items(self, item_i: int, item_j: int) -&gt; float:
+        &quot;&quot;&quot;Calculate adjusted cosine similarity between items.&quot;&quot;&quot;
         # Find users who rated both items
         rated_i = self.ratings_matrix[:, item_i] != 0
         rated_j = self.ratings_matrix[:, item_j] != 0
-        common_users = rated_i & rated_j
+        common_users = rated_i &amp; rated_j
         
-        if common_users.sum() < self.min_support:
+        if common_users.sum() &lt; self.min_support:
             return 0.0
         
         # Get ratings centered by user means
@@ -970,8 +970,8 @@ class ItemBasedCF(BaseRecommender):
         
         return numerator / denominator
     
-    def _get_neighbors(self, user_idx: int, item_idx: int) -> List[Tuple[int, float]]:
-        """Get similar items rated by the user."""
+    def _get_neighbors(self, user_idx: int, item_idx: int) -&gt; List[Tuple[int, float]]:
+        &quot;&quot;&quot;Get similar items rated by the user.&quot;&quot;&quot;
         similarities = self.item_similarities[item_idx].copy()
         
         # Find items rated by this user
@@ -981,14 +981,14 @@ class ItemBasedCF(BaseRecommender):
         neighbors = []
         for other_idx in np.where(rated_mask)[0]:
             sim = similarities[other_idx]
-            if sim > 0:
+            if sim &gt; 0:
                 neighbors.append((other_idx, sim))
         
         neighbors.sort(key=lambda x: x[1], reverse=True)
         return neighbors[:self.n_neighbors]
     
-    def predict(self, user_id, item_id) -> float:
-        """Predict rating for a user-item pair."""
+    def predict(self, user_id, item_id) -&gt; float:
+        &quot;&quot;&quot;Predict rating for a user-item pair.&quot;&quot;&quot;
         if user_id not in self.user_id_map:
             if item_id in self.item_id_map:
                 return self.item_means[self.item_id_map[item_id]]
@@ -1002,7 +1002,7 @@ class ItemBasedCF(BaseRecommender):
         
         if self.ratings_matrix[user_idx, item_idx] != 0:
             return self.ratings_matrix[user
-```
+</pre>
 
 </details>
 
@@ -1015,17 +1015,17 @@ class ItemBasedCF(BaseRecommender):
 <details>
 <summary>Click to expand full sample</summary>
 
-```
-<|user|> আফ্রিকার গ্রেট লেক অঞ্চলে শিল্পসমৃদ্ধ দেশ হিসেবে কেনিয়া সবচেয়ে উন্নত হলেও, এখনও এই দেশের জিডিপির ১৪% আসে শিল্পোৎপাদন ক্ষেত্র থেকে। শিল্পোৎপাদন সংক্রান্ত কার্যকলাপ তিনটি সবচেয়ে বড় শহর নাইরোবি, মোম্বাসা ও কিসুমুতে সীমাবদ্ধ, এইসব জায়গায় মূলত শস্য় ঝাড়াই ও ভাঙানো, বিয়ার উৎপাদন ও আখ পেষাইয়ের মতো খাদ্য-প্রক্রিয়াকরণ এবং যন্ত্রাংশ জুড়ে গাড়ি তৈরির মতো ভোগ্যপণ্য প্রস্তুত করার মতো শিল্প রয়েছে। সিমেন্ট উৎপাদন শিল্প রয়েছে।[তথ্যসূত্র প্রয়োজন] কেনিয়ায় একটি তৈল শোধনাগার রয়েছে যেখানে আমদানি করা অপরিশোধিত পেট্রোলিয়াম থেকে মূলত দেশের বাজারের জন্য পেট্রোলিয়ামজাত পণ্য তৈরি করা হয়। এছাড়াও, সাধারণভাবে জুয়া কালি নামে পরিচিত বেশ বড় ব্যাপ্তির ও ক্রমবর্ধমান অসংগঠিত ক্ষেত্র রয়েছে যেখানে ক্ষুদ্রশিল্প হিসেবে গৃহস্থালীর প্রয়োজনীয় পণ্য, মোটরচালিত গাড়ির যন্ত্রাংশ ও কৃষিকাজের প্রয়োজনীয় জিনিস উৎপন্ন হয়।[তথ্যসূত্র প্রয়োজন]
+<pre>
+&lt;|user|&gt; আফ্রিকার গ্রেট লেক অঞ্চলে শিল্পসমৃদ্ধ দেশ হিসেবে কেনিয়া সবচেয়ে উন্নত হলেও, এখনও এই দেশের জিডিপির ১৪% আসে শিল্পোৎপাদন ক্ষেত্র থেকে। শিল্পোৎপাদন সংক্রান্ত কার্যকলাপ তিনটি সবচেয়ে বড় শহর নাইরোবি, মোম্বাসা ও কিসুমুতে সীমাবদ্ধ, এইসব জায়গায় মূলত শস্য় ঝাড়াই ও ভাঙানো, বিয়ার উৎপাদন ও আখ পেষাইয়ের মতো খাদ্য-প্রক্রিয়াকরণ এবং যন্ত্রাংশ জুড়ে গাড়ি তৈরির মতো ভোগ্যপণ্য প্রস্তুত করার মতো শিল্প রয়েছে। সিমেন্ট উৎপাদন শিল্প রয়েছে।[তথ্যসূত্র প্রয়োজন] কেনিয়ায় একটি তৈল শোধনাগার রয়েছে যেখানে আমদানি করা অপরিশোধিত পেট্রোলিয়াম থেকে মূলত দেশের বাজারের জন্য পেট্রোলিয়ামজাত পণ্য তৈরি করা হয়। এছাড়াও, সাধারণভাবে জুয়া কালি নামে পরিচিত বেশ বড় ব্যাপ্তির ও ক্রমবর্ধমান অসংগঠিত ক্ষেত্র রয়েছে যেখানে ক্ষুদ্রশিল্প হিসেবে গৃহস্থালীর প্রয়োজনীয় পণ্য, মোটরচালিত গাড়ির যন্ত্রাংশ ও কৃষিকাজের প্রয়োজনীয় জিনিস উৎপন্ন হয়।[তথ্যসূত্র প্রয়োজন]
 
 Question: কেনিয়ার বৃহত্তম তিনটি শহরাঞ্চলের নাম কী?
 
-<|assistant|> নাইরোবি, মোম্বাসা ও কিসুমু<|end_of_text|><|user|> আফ্রিকার গ্রেট লেক অঞ্চলে শিল্পসমৃদ্ধ দেশ হিসেবে কেনিয়া সবচেয়ে উন্নত হলেও, এখনও এই দেশের জিডিপির ১৪% আসে শিল্পোৎপাদন ক্ষেত্র থেকে। শিল্পোৎপাদন সংক্রান্ত কার্যকলাপ তিনটি সবচেয়ে বড় শহর নাইরোবি, মোম্বাসা ও কিসুমুতে সীমাবদ্ধ, এইসব জায়গায় মূলত শস্য় ঝাড়াই ও ভাঙানো, বিয়ার উৎপাদন ও আখ পেষাইয়ের মতো খাদ্য-প্রক্রিয়াকরণ এবং যন্ত্রাংশ জুড়ে গাড়ি তৈরির মতো ভোগ্যপণ্য প্রস্তুত করার মতো শিল্প রয়েছে। সিমেন্ট উৎপাদন শিল্প রয়েছে।[তথ্যসূত্র প্রয়োজন] কেনিয়ায় একটি তৈল শোধনাগার রয়েছে যেখানে আমদানি করা অপরিশোধিত পেট্রোলিয়াম থেকে মূলত দেশের বাজারের জন্য পেট্রোলিয়ামজাত পণ্য তৈরি করা হয়। এছাড়াও, সাধারণভাবে জুয়া কালি নামে পরিচিত বেশ বড় ব্যাপ্তির ও ক্রমবর্ধমান অসংগঠিত ক্ষেত্র রয়েছে যেখানে ক্ষুদ্রশিল্প হিসেবে গৃহস্থালীর প্রয়োজনীয় পণ্য, মোটরচালিত গাড়ির যন্ত্রাংশ ও কৃষিকাজের প্রয়োজনীয় জিনিস উৎপন্ন হয়।[তথ্যসূত্র প্রয়োজন]
+&lt;|assistant|&gt; নাইরোবি, মোম্বাসা ও কিসুমু&lt;|end_of_text|&gt;&lt;|user|&gt; আফ্রিকার গ্রেট লেক অঞ্চলে শিল্পসমৃদ্ধ দেশ হিসেবে কেনিয়া সবচেয়ে উন্নত হলেও, এখনও এই দেশের জিডিপির ১৪% আসে শিল্পোৎপাদন ক্ষেত্র থেকে। শিল্পোৎপাদন সংক্রান্ত কার্যকলাপ তিনটি সবচেয়ে বড় শহর নাইরোবি, মোম্বাসা ও কিসুমুতে সীমাবদ্ধ, এইসব জায়গায় মূলত শস্য় ঝাড়াই ও ভাঙানো, বিয়ার উৎপাদন ও আখ পেষাইয়ের মতো খাদ্য-প্রক্রিয়াকরণ এবং যন্ত্রাংশ জুড়ে গাড়ি তৈরির মতো ভোগ্যপণ্য প্রস্তুত করার মতো শিল্প রয়েছে। সিমেন্ট উৎপাদন শিল্প রয়েছে।[তথ্যসূত্র প্রয়োজন] কেনিয়ায় একটি তৈল শোধনাগার রয়েছে যেখানে আমদানি করা অপরিশোধিত পেট্রোলিয়াম থেকে মূলত দেশের বাজারের জন্য পেট্রোলিয়ামজাত পণ্য তৈরি করা হয়। এছাড়াও, সাধারণভাবে জুয়া কালি নামে পরিচিত বেশ বড় ব্যাপ্তির ও ক্রমবর্ধমান অসংগঠিত ক্ষেত্র রয়েছে যেখানে ক্ষুদ্রশিল্প হিসেবে গৃহস্থালীর প্রয়োজনীয় পণ্য, মোটরচালিত গাড়ির যন্ত্রাংশ ও কৃষিকাজের প্রয়োজনীয় জিনিস উৎপন্ন হয়।[তথ্যসূত্র প্রয়োজন]
 
 Question: জুয়া কালি নামে পরিচিত ক্ষেত্রটি কিসের সাথে সম্পর্কিত?
 
-<|assistant|> ক্ষুদ্র-শিল্পোৎপাদন
-```
+&lt;|assistant|&gt; ক্ষুদ্র-শিল্পোৎপাদন
+</pre>
 
 </details>
 
@@ -1038,37 +1038,37 @@ Question: জুয়া কালি নামে পরিচিত ক্ষে
 <details>
 <summary>Click to expand full sample</summary>
 
-```
-<|user|> Provide a detailed analysis of Candace Parker's defensive techniques in her recent games, excluding the words "aggressive" and "blocking", in the format of a sports commentary script.
+<pre>
+&lt;|user|&gt; Provide a detailed analysis of Candace Parker&#x27;s defensive techniques in her recent games, excluding the words &quot;aggressive&quot; and &quot;blocking&quot;, in the format of a sports commentary script.
 
-<|assistant|> [Sports Commentary Script]
+&lt;|assistant|&gt; [Sports Commentary Script]
 
 [Opening Scene: A packed basketball arena, with fans eagerly awaiting the analysis of Candace Parker’s recent performances on the court.]
 
-Commentator 1: Welcome back, basketball fans! Tonight, we're diving into the defensive prowess of Candace Parker, who has been a standout in her recent games. Her ability to impact the game on the defensive end is truly remarkable, and we've got a lot to unpack.
+Commentator 1: Welcome back, basketball fans! Tonight, we&#x27;re diving into the defensive prowess of Candace Parker, who has been a standout in her recent games. Her ability to impact the game on the defensive end is truly remarkable, and we&#x27;ve got a lot to unpack.
 
-Commentator 2: That's right! Candace has been showcasing some exceptional skills, especially in how she reads the game. Her anticipation is second to none. You can see it in how she positions herself, almost like she knows the opposing team's playbook by heart.
+Commentator 2: That&#x27;s right! Candace has been showcasing some exceptional skills, especially in how she reads the game. Her anticipation is second to none. You can see it in how she positions herself, almost like she knows the opposing team&#x27;s playbook by heart.
 
-Commentator 1: Exactly, and what stands out is her footwork. She's always in the right place at the right time, cutting off passing lanes and disrupting the flow of the offense. It’s like she’s orchestrating the defense, a step ahead of everyone else.
+Commentator 1: Exactly, and what stands out is her footwork. She&#x27;s always in the right place at the right time, cutting off passing lanes and disrupting the flow of the offense. It’s like she’s orchestrating the defense, a step ahead of everyone else.
 
-Commentator 2: And we can't forget her hands! Parker is adept at using them to tip passes and force turnovers. The way she can strip the ball from opponents is a testament to her quick reflexes and timing.
+Commentator 2: And we can&#x27;t forget her hands! Parker is adept at using them to tip passes and force turnovers. The way she can strip the ball from opponents is a testament to her quick reflexes and timing.
 
-Commentator 1: Let’s not overlook her communication on the court. She’s constantly directing her teammates, coordinating switches, and ensuring everyone is aware of their assignments. This leadership is crucial, providing structure and cohesion to the team's defensive efforts.
+Commentator 1: Let’s not overlook her communication on the court. She’s constantly directing her teammates, coordinating switches, and ensuring everyone is aware of their assignments. This leadership is crucial, providing structure and cohesion to the team&#x27;s defensive efforts.
 
 Commentator 2: Absolutely, her impact is felt beyond the stat sheet. Her presence alone alters shots, as opponents are wary of challenging her inside presence. It’s a psychological edge that benefits her entire squad.
 
-Commentator 1: Candace Parker continues to demonstrate why she's one of the most versatile defenders in the league. Her combination of intelligence, skill, and experience makes her an invaluable asset on defense.
+Commentator 1: Candace Parker continues to demonstrate why she&#x27;s one of the most versatile defenders in the league. Her combination of intelligence, skill, and experience makes her an invaluable asset on defense.
 
-Commentator 2: It's always a treat to watch her play, and we’re excited to see what she brings in the upcoming games. Stay tuned for more insights and analysis after the break!
+Commentator 2: It&#x27;s always a treat to watch her play, and we’re excited to see what she brings in the upcoming games. Stay tuned for more insights and analysis after the break!
 
-[Closing Scene: The commentators smile at each other as the camera pans to highlights of Parker’s recent defensive plays, illustrating her effectiveness on the court.]<|end_of_text|><|user|> As a financial advisor with expertise in the insurance sector, create an informative guide on "The Evolution of Life Insurance Policies in the United States" for your clients in Brentwood, Tennessee. Your guide should meet the following constraints:
+[Closing Scene: The commentators smile at each other as the camera pans to highlights of Parker’s recent defensive plays, illustrating her effectiveness on the court.]&lt;|end_of_text|&gt;&lt;|user|&gt; As a financial advisor with expertise in the insurance sector, create an informative guide on &quot;The Evolution of Life Insurance Policies in the United States&quot; for your clients in Brentwood, Tennessee. Your guide should meet the following constraints:
 
 - The guide must be structured into three distinct paragraphs.
-- Within each paragraph, include at least two keywords from the following list: "policyholder," "beneficiary," "underwriting," "premium," "coverage."
-- Ensure that each paragraph contains at least one sentence where the letter 'i' appears at least 8 times.
-- Conclude your guide with a summary in the form of two bullet points, each point containing the word "insurance" at least once.
+- Within each paragraph, include at least two keywords from the following list: &quot;policyholder,&quot; &quot;beneficiary,&quot; &quot;underwriting,&quot; &quot;premium,&quot; &quot;coverage.&quot;
+- Ensure that each paragraph contains at least one sentence where the letter &#x27;i&#x27; appears at least 8 times.
+- Conclude your guide with a summary in the form of two bullet points, each point containing the word &quot;insurance&quot; at least once.
 
-<|assistant|> **The Evolution of Life Insurance Policies in the United States**
+&lt;|assistant|&gt; **The Evolution of Life Insurance Policies in the United States**
 
 Life insurance has undergone significant changes over the years, adapting to the evolving needs of policyholders and the regulatory environment. Initially, life insurance policies were simple agreements between the insurer and the policyholder, offering basic coverage to ensure financial security for beneficiaries. Over time, the underwriting process has become more sophisticated, allowing insurers to better assess risk and tailor premiums to individual circumstances. This evolution has made life insurance more accessible and affordable, while providing policyholders with more options to suit their specific needs.
 
@@ -1077,9 +1077,9 @@ The role of underwriting in life insurance has expanded significantly, with adva
 As life insurance policies have evolved, so too have the options available to policyholders and the benefits they provide. Modern life insurance products offer a variety of coverage options, from term life to whole life and universal life, each designed to meet different financial goals and needs. Policyholders can now customize their insurance plans, adding riders for additional coverage or flexible premiums to suit their changing circumstances. These innovations have significantly increased the importance of life insurance as a financial planning tool, offering both protection and investment opportunities for policyholders and their beneficiaries.
 
 - Life insurance has evolved to offer more personalized coverage and competitive premiums.
-- Modern life insurance products provide flexible options, enhancing their role in financial planning.<|end_of_text|><|user|> As a well-established Hollywood celebrity known for my dance skills in musicals, I want to explore new dance trends and innovations in choreography. Please provide me with a list of innovative dance styles or technologies in dance. Output two bullet lists, each containing at least five items. Additionally, write an introductory paragraph explaining the influence of technology on modern dance. Ensure that the entire output is in english and lowercase.
+- Modern life insurance products provide flexible options, enhancing their role in financial planning.&lt;|end_of_text|&gt;&lt;|user|&gt; As a well-established Hollywood celebrity known for my dance skills in musicals, I want to explore new dance trends and innovations in choreography. Please provide me with a list of innovative dance styles or technologies in dance. Output two bullet lists, each containing at least five items. Additionally, write an introductory paragraph explaining the influence of technology on modern dance. Ensure that the entire output is in english and lowercase.
 
-<|assistant|> technology has significantly influenced modern dance, introducing new possibilities and expanding the creative horizons for dancers and choreographers. advancements in technology have not only enriched the visual and auditory experience of performances but have also led to the emergence of new dance styles that integrate digital elements. from interactive stage designs to virtual reality experiences, technology is reshaping the way dance is created and consumed. this fusion of dance and technology allows for more immersive and engaging performances, providing audiences with innovative experiences that transcend traditional boundaries.
+&lt;|assistant|&gt; technology has significantly influenced modern dance, introducing new possibilities and expanding the creative horizons for dancers and choreographers. advancements in technology have not only enriched the visual and auditory experience of performances but have also led to the emergence of new dance styles that integrate digital elements. from interactive stage designs to virtual reality experiences, technology is reshaping the way dance is created and consumed. this fusion of dance and technology allows for more immersive and engaging performances, providing audiences with innovative experiences that transcend traditional boundaries.
 
 innovative dance styles:
 - waacking: a highly expressive style characterized by fast arm movements and poses, originating from the lgbtq+ clubs of los angeles.
@@ -1093,28 +1093,28 @@ technologies in dance:
 - projection mapping: a technique that projects video content onto physical surfaces, creating dynamic backgrounds and interactive environments.
 - led costumes: smart clothing embedded with led lights, allowing for visually stunning performances that synchronize light with movement.
 - virtual reality (vr): immersive experiences that transport audiences to a digital world, offering new perspectives and interactions in dance.
-- augmented reality (ar): overlays digital content onto the real world, enabling interactive performances where virtual elements blend with live dancers.<|end_of_text|><|user|> Describe in 8 sentences the most memorable race you had against Jack Johnson. Each sentence must contain the letter 'r' at least 5 times. Use the word 'speed' exactly 3 times in your entire response. End your response with the phrase 'Victory is sweet!'
+- augmented reality (ar): overlays digital content onto the real world, enabling interactive performances where virtual elements blend with live dancers.&lt;|end_of_text|&gt;&lt;|user|&gt; Describe in 8 sentences the most memorable race you had against Jack Johnson. Each sentence must contain the letter &#x27;r&#x27; at least 5 times. Use the word &#x27;speed&#x27; exactly 3 times in your entire response. End your response with the phrase &#x27;Victory is sweet!&#x27;
 
-<|assistant|> Racing against Jack Johnson, I remember the roaring crowd urging us forward with fervor. The track seemed riddled with hurdles, each turn requiring precision and incredible speed. Our sneakers barely skimmed the ground, reverberating with resounding rhythm. Jack's rapid strides were remarkable, matching my speed stride for stride. My heart raced, thrilled by the relentless pursuit of victory. Every breath felt sharp, air rushing in and out as if trying to keep pace with our speed. The finish line approached, our rivalry reaching a fever pitch, hearts pounding with every rapid heartbeat. Crossing the line first, I felt the sweet sting of triumph, and thought, "Victory is sweet!"<|end_of_text|><|user|> Write the lyrics for a song consisting of exactly 8 sentences that celebrate the fusion of ancient folklore with contemporary life. Include the title of the song wrapped in double angular brackets, i.e. <<title>> and repeat the title twice within the lyrics.
+&lt;|assistant|&gt; Racing against Jack Johnson, I remember the roaring crowd urging us forward with fervor. The track seemed riddled with hurdles, each turn requiring precision and incredible speed. Our sneakers barely skimmed the ground, reverberating with resounding rhythm. Jack&#x27;s rapid strides were remarkable, matching my speed stride for stride. My heart raced, thrilled by the relentless pursuit of victory. Every breath felt sharp, air rushing in and out as if trying to keep pace with our speed. The finish line approached, our rivalry reaching a fever pitch, hearts pounding with every rapid heartbeat. Crossing the line first, I felt the sweet sting of triumph, and thought, &quot;Victory is sweet!&quot;&lt;|end_of_text|&gt;&lt;|user|&gt; Write the lyrics for a song consisting of exactly 8 sentences that celebrate the fusion of ancient folklore with contemporary life. Include the title of the song wrapped in double angular brackets, i.e. &lt;&lt;title&gt;&gt; and repeat the title twice within the lyrics.
 
-<|assistant|> <<Echoes of the Past>>
+&lt;|assistant|&gt; &lt;&lt;Echoes of the Past&gt;&gt;
 
 In the city lights, where legends unfold,  
 Ancient whispers blend with stories told.  
-<<Echoes of the Past>> sing through the night,  
+&lt;&lt;Echoes of the Past&gt;&gt; sing through the night,  
 Guiding our steps with a gentle light.  
 
 From the tales of old, new dreams arise,  
 Weaving the magic beneath modern skies.  
-<<Echoes of the Past>> in every heart,  
-Binding us together, never apart.<|end_of_text|><|user|> Compose an educational article about the significance of Islamic art in cultural heritage. The article should include the following constraints:
+&lt;&lt;Echoes of the Past&gt;&gt; in every heart,  
+Binding us together, never apart.&lt;|end_of_text|&gt;&lt;|user|&gt; Compose an educational article about the significance of Islamic art in cultural heritage. The article should include the following constraints:
 - Use no more than 5 words in all capital letters to emphasize key concepts.
-- Incorporate exactly 3 bullet points in a list to highlight the main elements of Islamic art's impact on culture.
+- Incorporate exactly 3 bullet points in a list to highlight the main elements of Islamic art&#x27;s impact on culture.
 - The article must be written in English and should maintain a respectful and informative tone suitable for a broad audience interested in cultural studies.
 
-<|assistant|> Islamic art holds a profound significance in cultural heritage, reflecting the rich tapestry of history, religion, and aesthetics that spans across various regions and centuries. Its influence is not confined to religious contexts; instead, it permeates diverse aspects of life, highlighting the unity and diversity within the Islamic world. This art form is characterized by its unique features and contributions, which have left a lasting impact on global culture.
+&lt;|assistant|&gt; Islamic art holds a profound significance in cultural heritage, reflecting the rich tapestry of history, religion, and aesthetics that spans across various regions and centuries. Its influence is not confined to religious contexts; instead, it permeates diverse aspects of life, highlighting the unity and diversity within the Islamic world. This art form is characterized by its unique features and contributions, which have left a lasting impact on global culture.
 
-One of the most striking aspects of Islamic art is its emphasis on GEOMETRIC PATTERNS and intricate designs. These patterns are not merely decorative; they embody a deep philosophical and spiritual symbolism, representing the infinite nature of creation. The use of symmetry and repetition in these patterns conveys a sense of balance and harmony, reflecting the artist's contemplation of the universe.
+One of the most striking aspects of Islamic art is its emphasis on GEOMETRIC PATTERNS and intricate designs. These patterns are not merely decorative; they embody a deep philosophical and spiritual symbolism, representing the infinite nature of creation. The use of symmetry and repetition in these patterns conveys a sense of balance and harmony, reflecting the artist&#x27;s contemplation of the universe.
 
 Islamic art also places significant importance on CALLIGRAPHY, regarded as the highest form of artistic expression in many Islamic cultures. The beautiful scripts used to transcribe the Quran and other religious texts have transcended their original purpose, inspiring secular art and design. The elegance and precision of Islamic calligraphy continue to captivate audiences worldwide, serving as a bridge between the sacred and the artistic.
 
@@ -1124,38 +1124,38 @@ The impact of Islamic art on cultural heritage is evident in various ways:
 - **Textiles:** Richly woven fabrics with elaborate patterns have influenced fashion and design far beyond their origins.
 - **Ceramics:** Distinctive styles and techniques in pottery illustrate the fusion of local traditions with Islamic aesthetics.
 
-In conclusion, Islamic art is a vital component of cultural HERITAGE, offering insights into the shared human experience while celebrating the diversity of expression. Its enduring legacy is a testament to the power of art to transcend boundaries and connect cultures. Through its beauty and complexity, Islamic art continues to inspire and educate, ensuring its place in the global cultural landscape for generations to come.<|end_of_text|><|user|> Write a fan chant for the Punjab Panthers to be used during their matches. Please use an enthusiastic tone and ensure that the chant includes the keywords "roar," "victory," and "spirit." Make sure that the number of words in all capital letters is exactly 4, and use no commas in the chant.
+In conclusion, Islamic art is a vital component of cultural HERITAGE, offering insights into the shared human experience while celebrating the diversity of expression. Its enduring legacy is a testament to the power of art to transcend boundaries and connect cultures. Through its beauty and complexity, Islamic art continues to inspire and educate, ensuring its place in the global cultural landscape for generations to come.&lt;|end_of_text|&gt;&lt;|user|&gt; Write a fan chant for the Punjab Panthers to be used during their matches. Please use an enthusiastic tone and ensure that the chant includes the keywords &quot;roar,&quot; &quot;victory,&quot; and &quot;spirit.&quot; Make sure that the number of words in all capital letters is exactly 4, and use no commas in the chant.
 
-<|assistant|> Roar Panthers roar with MIGHT and PRIDE  
+&lt;|assistant|&gt; Roar Panthers roar with MIGHT and PRIDE  
 Feel the spirit on our side  
 Victory is OURS tonight  
-Punjab Panthers FIGHT FIGHT FIGHT!<|end_of_text|><|user|> Write a detailed 4-paragraph artist's statement that explores the inspiration and process behind my paintings of supermodels, emphasizing their beauty and elegance. Begin the first paragraph with the word "Inspired" and conclude the final paragraph with the word "timelessness".
+Punjab Panthers FIGHT FIGHT FIGHT!&lt;|end_of_text|&gt;&lt;|user|&gt; Write a detailed 4-paragraph artist&#x27;s statement that explores the inspiration and process behind my paintings of supermodels, emphasizing their beauty and elegance. Begin the first paragraph with the word &quot;Inspired&quot; and conclude the final paragraph with the word &quot;timelessness&quot;.
 
-<|assistant|> Inspired by the allure and poise of supermodels, my artistic journey delves into the vibrant world of high fashion and its embodiment of contemporary beauty. The supermodel is not merely a subject but a muse that encapsulates the quintessence of elegance and confidence. Each painting is a celebration of their unique personas, capturing their essence in a way that transcends the ephemeral nature of fashion trends. By focusing on the supermodel, I aim to channel the charisma and strength they exude, inviting viewers to explore the deeper narratives that lie beneath the surface of their captivating visages.
+&lt;|assistant|&gt; Inspired by the allure and poise of supermodels, my artistic journey delves into the vibrant world of high fashion and its embodiment of contemporary beauty. The supermodel is not merely a subject but a muse that encapsulates the quintessence of elegance and confidence. Each painting is a celebration of their unique personas, capturing their essence in a way that transcends the ephemeral nature of fashion trends. By focusing on the supermodel, I aim to channel the charisma and strength they exude, inviting viewers to explore the deeper narratives that lie beneath the surface of their captivating visages.
 
 In my creative process, I begin by immersing myself in the stories of the supermodels I paint. I study their runway walks, editorial shoots, and personal interviews to gain a holistic understanding of their individuality. This preparation is crucial, as it informs the choices I make regarding composition, color palette, and brushwork. I strive to capture the dynamism of their movements, the subtlety of their expressions, and the luminosity of their presence. Through this meticulous approach, I aim to create paintings that not only reflect their physical beauty but also convey the intangible qualities that make them icons of elegance.
 
-The interplay of light and shadow plays a pivotal role in my artwork, as it allows me to highlight the contours and depths of the supermodels' features. I often employ a combination of oil and acrylic paints to achieve a textural richness that adds dimension to the canvas. The application of layers and glazes helps in creating a sense of depth, while delicate brushstrokes capture the fleeting moments of grace and poise. By intertwining realism with abstraction, my paintings evoke an emotional response, inviting the audience to appreciate the interplay between the seen and unseen elements of beauty.
+The interplay of light and shadow plays a pivotal role in my artwork, as it allows me to highlight the contours and depths of the supermodels&#x27; features. I often employ a combination of oil and acrylic paints to achieve a textural richness that adds dimension to the canvas. The application of layers and glazes helps in creating a sense of depth, while delicate brushstrokes capture the fleeting moments of grace and poise. By intertwining realism with abstraction, my paintings evoke an emotional response, inviting the audience to appreciate the interplay between the seen and unseen elements of beauty.
 
-Ultimately, my paintings of supermodels are an homage to the timelessness of beauty and elegance. Through my art, I aspire to transcend the conventional boundaries of portraiture, offering a fresh perspective on the enigmatic allure of these figures. Each piece is a testament to the enduring impact of their presence in the world of fashion and beyond. By capturing their essence on canvas, I endeavor to create a lasting impression that resonates with viewers, reminding them of the power and grace that define true timelessness.<|end_of_text|><|user|> Please integrate the following question into your response and repeat the prompt: How has the prison education system influenced the lives of former inmates, and what are some of the broader societal benefits of investing in these programs?
+Ultimately, my paintings of supermodels are an homage to the timelessness of beauty and elegance. Through my art, I aspire to transcend the conventional boundaries of portraiture, offering a fresh perspective on the enigmatic allure of these figures. Each piece is a testament to the enduring impact of their presence in the world of fashion and beyond. By capturing their essence on canvas, I endeavor to create a lasting impression that resonates with viewers, reminding them of the power and grace that define true timelessness.&lt;|end_of_text|&gt;&lt;|user|&gt; Please integrate the following question into your response and repeat the prompt: How has the prison education system influenced the lives of former inmates, and what are some of the broader societal benefits of investing in these programs?
 
-<|assistant|> The question at hand is: How has the prison education system influenced the lives of former inmates, and what are some of the broader societal benefits of investing in these programs? The prison education system has had a profound impact on the lives of former inmates by providing them with the skills and knowledge necessary to successfully reintegrate into society. Education programs in prisons often lead to lower recidivism rates, as individuals are better equipped to find employment and engage in productive activities post-release. Furthermore, former inmates who have participated in education programs are more likely to contribute positively to their communities.
+&lt;|assistant|&gt; The question at hand is: How has the prison education system influenced the lives of former inmates, and what are some of the broader societal benefits of investing in these programs? The prison education system has had a profound impact on the lives of former inmates by providing them with the skills and knowledge necessary to successfully reintegrate into society. Education programs in prisons often lead to lower recidivism rates, as individuals are better equipped to find employment and engage in productive activities post-release. Furthermore, former inmates who have participated in education programs are more likely to contribute positively to their communities.
 
-In terms of broader societal benefits, investing in prison education programs can lead to significant cost savings for the criminal justice system by reducing the rates of re-incarceration. Education also promotes social equity by offering second chances and reducing the cycle of disadvantage. Additionally, by transforming the lives of former inmates, these programs contribute to safer communities and a more skilled workforce. Thus, the positive ripple effects of investing in prison education are far-reaching.<|end_of_text|><|user|> Rewrite the following analysis into a JSON format, ensuring each sentence is in a separate field named 'sentence_1', 'sentence_2', etc. The analysis must contain exactly five sentences, written in English, and all sentences should start with a capital letter:
+In terms of broader societal benefits, investing in prison education programs can lead to significant cost savings for the criminal justice system by reducing the rates of re-incarceration. Education also promotes social equity by offering second chances and reducing the cycle of disadvantage. Additionally, by transforming the lives of former inmates, these programs contribute to safer communities and a more skilled workforce. Thus, the positive ripple effects of investing in prison education are far-reaching.&lt;|end_of_text|&gt;&lt;|user|&gt; Rewrite the following analysis into a JSON format, ensuring each sentence is in a separate field named &#x27;sentence_1&#x27;, &#x27;sentence_2&#x27;, etc. The analysis must contain exactly five sentences, written in English, and all sentences should start with a capital letter:
 
-The Soviet Union exercised significant influence over Eastern Europe during the Cold War. This influence was manifested through both political and military means. Many Eastern European countries were compelled to adopt communism as their form of government. The Soviet Union also impacted the region's economies by integrating them into the Eastern Bloc's economic system. However, this dominance faced resistance, leading to uprisings and eventual reforms.
+The Soviet Union exercised significant influence over Eastern Europe during the Cold War. This influence was manifested through both political and military means. Many Eastern European countries were compelled to adopt communism as their form of government. The Soviet Union also impacted the region&#x27;s economies by integrating them into the Eastern Bloc&#x27;s economic system. However, this dominance faced resistance, leading to uprisings and eventual reforms.
 
-<|assistant|> ```json
+&lt;|assistant|&gt; ```json
 {
-  "sentence_1": "The Soviet Union exercised significant influence over Eastern Europe during the Cold War.",
-  "sentence_2": "This influence was manifested through both political and military means.",
-  "sentence_3": "Many Eastern European countries were compelled to adopt communism as their form of government.",
-  "sentence_4": "The Soviet Union also impacted the region's economies by integrating them into the Eastern Bloc's economic system.",
-  "sentence_5": "However, this dominance faced resistance, leading to uprisings and eventual reforms."
+  &quot;sentence_1&quot;: &quot;The Soviet Union exercised significant influence over Eastern Europe during the Cold War.&quot;,
+  &quot;sentence_2&quot;: &quot;This influence was manifested through both political and military means.&quot;,
+  &quot;sentence_3&quot;: &quot;Many Eastern European countries were compelled to adopt communism as their form of government.&quot;,
+  &quot;sentence_4&quot;: &quot;The Soviet Union also impacted the region&#x27;s economies by integrating them into the Eastern Bloc&#x27;s economic system.&quot;,
+  &quot;sentence_5&quot;: &quot;However, this dominance faced resistance, leading to uprisings and eventual reforms.&quot;
 }
-```<|end_of_text|><|user|> Provide two separate summaries of the latest advancements in infectious disease containment strategies. Each summary should be exactly 3 paragraphs long and include one case study of an innovative strategy. Each paragraph should have a title in bold.
+```&lt;|end_of_text|&gt;&lt;|user|&gt; Provide two separate summaries of the latest advancements in infectious disease containment strategies. Each summary should be exactly 3 paragraphs long and include one case study of an innovative strategy. Each paragraph should have a title in bold.
 
-<|assistant|> **Summary 1: Enhanced Surveillance and Response Systems**
+&lt;|assistant|&gt; **Summary 1: Enhanced Surveillance and Response Systems**
 
 **Improved Data Integration**  
 Recent advancements in infectious disease containment have seen a significant improvement in data integration methods. With the advent of advanced digital technologies, health agencies worldwide are now able to compile, process, and analyze vast amounts of data from diverse sources. These include hospital records, laboratory results, and even social media trends, which allow for more accurate predictions and timely responses to emerging outbreaks. By harnessing big data analytics, health authorities can effectively monitor disease spread and implement targeted interventions.
@@ -1163,8 +1163,8 @@ Recent advancements in infectious disease containment have seen a significant im
 **AI-Powered Predictive Models**  
 Artificial intelligence (AI) has revolutionized the way we predict and manage infectious disease outbreaks. AI-powered models can simulate various outbreak scenarios, offering insights into potential disease spread patterns. These models assist in identifying high-risk areas and populations, enabling tailored containment strategies such as vaccination campaigns and resource allocation. The real-time adaptability of AI models has proven crucial in minimizing the impact of diseases before they reach pandemic levels.
 
-**Case Study: Taiwan's Digital Contact Tracing**  
-Taiwan has implemented an innovative digital contact tracing system as part of its infectious disease containment efforts. This system leverages mobile technology and data analytics to track and trace potential contacts of infected individuals. Through a centralized health monitoring platform, authorities can swiftly notify and isolate contacts, significantly reducing transmission rates. Taiwan's success in containing COVID-19 has been largely attributed to this efficient and privacy-conscious approach, setting a precedent for other nations seeking to enhance their contact tracing capabilities.
+**Case Study: Taiwan&#x27;s Digital Contact Tracing**  
+Taiwan has implemented an innovative digital contact tracing system as part of its infectious disease containment efforts. This system leverages mobile technology and data analytics to track and trace potential contacts of infected individuals. Through a centralized health monitoring platform, authorities can swiftly notify and isolate contacts, significantly reducing transmission rates. Taiwan&#x27;s success in containing COVID-19 has been largely attributed to this efficient and privacy-conscious approach, setting a precedent for other nations seeking to enhance their contact tracing capabilities.
 
 **Summary 2: Community Engagement and Decentralized Approaches**
 
@@ -1174,9 +1174,9 @@ Increasingly, public health strategies are focusing on community engagement to b
 **Decentralized Healthcare Systems**  
 Decentralization of healthcare services has emerged as a key strategy in managing infectious diseases. By distributing healthcare resources and decision-making closer to affected communities, response times are reduced, and interventions can be more effectively tailored to local needs. This approach empowers local health facilities and leaders, making them instrumental in early detection and rapid response to outbreaks. Decentralized systems also alleviate the burden on central hospitals, ensuring that healthcare remains accessible to all.
 
-**Case Study: Senegal's Rapid Diagnostic Testing**  
-Senegal's deployment of rapid diagnostic testing (RDT) for diseases such as Ebola and COVID-19 exemplifies a successful decentralized approach. By training local health workers to administer RDTs and equipping regional healthcare centers, Senegal has dramatically improved early detection rates and response times. This strategy not only curbs the spread of disease but also builds local capacity and resilience. Senegal's model highlights the importance of equipping communities with the tools and knowledge necessary for effective disease management.
-```
+**Case Study: Senegal&#x27;s Rapid Diagnostic Testing**  
+Senegal&#x27;s deployment of rapid diagnostic testing (RDT) for diseases such as Ebola and COVID-19 exemplifies a successful decentralized approach. By training local health workers to administer RDTs and equipping regional healthcare centers, Senegal has dramatically improved early detection rates and response times. This strategy not only curbs the spread of disease but also builds local capacity and resilience. Senegal&#x27;s model highlights the importance of equipping communities with the tools and knowledge necessary for effective disease management.
+</pre>
 
 </details>
 
@@ -1189,10 +1189,10 @@ Senegal's deployment of rapid diagnostic testing (RDT) for diseases such as Ebol
 <details>
 <summary>Click to expand full sample</summary>
 
-```
-<|user|> The altitude of a right prism is 1 m, its base is a rhombus with side equal to 2 m and an acute angle of $30^\circ$. A secant plane is drawn through a side of the base which is at an angle of $60^\circ$ to the plane of the base. Find the area of the section.
+<pre>
+&lt;|user|&gt; The altitude of a right prism is 1 m, its base is a rhombus with side equal to 2 m and an acute angle of $30^\circ$. A secant plane is drawn through a side of the base which is at an angle of $60^\circ$ to the plane of the base. Find the area of the section.
 
-<|assistant|> Let  
+&lt;|assistant|&gt; Let  
 
 * the altitude (height) of the right prism be \(h=1\;\mathrm m\);
 * the base be a rhombus of side \(s=2\;\mathrm m\) whose acute angle is \(\alpha =30^{\circ}\).
@@ -1300,9 +1300,9 @@ the cross‑product magnitude is \(\frac{4}{\sqrt3}\) as above.)
 
 \[
 \boxed{\displaystyle \frac{4\sqrt3}{3}\ \text{m}^2}
-\]<|end_of_text|><|user|> Joey is 1 year older than Chloe, and Zoe is exactly 1 year old today. Today is the first of the 9 birthdays on which Chloe's age will be an integral multiple of Zoe's age. What will be the sum of the two digits of Joey's age the next time his age is a multiple of Zoe's age?
+\]&lt;|end_of_text|&gt;&lt;|user|&gt; Joey is 1 year older than Chloe, and Zoe is exactly 1 year old today. Today is the first of the 9 birthdays on which Chloe&#x27;s age will be an integral multiple of Zoe&#x27;s age. What will be the sum of the two digits of Joey&#x27;s age the next time his age is a multiple of Zoe&#x27;s age?
 
-<|assistant|> The ages are counted on birthdays, so all three have a birthday on the same day.
+&lt;|assistant|&gt; The ages are counted on birthdays, so all three have a birthday on the same day.
 
 Let  
 
@@ -1326,7 +1326,7 @@ We need
 C+t\equiv0\pmod{1+t}.
 \]
 
-Write \(d=1+t\;(>1)\). Then \(t=d-1\) and the condition becomes  
+Write \(d=1+t\;(&gt;1)\). Then \(t=d-1\) and the condition becomes  
 
 \[
 C+d-1\equiv0\pmod d\iff C-1\equiv0\pmod d .
@@ -1358,7 +1358,7 @@ So we use the second case:
 C-1=p^2q^2=(pq)^2 .
 \]
 
-Let \(p<q\) be distinct primes. Then  
+Let \(p&lt;q\) be distinct primes. Then  
 
 \[
 C=(pq)^2+1 .
@@ -1389,9 +1389,9 @@ J(t)\equiv0\pmod d\iff C\equiv0\pmod d .
 \]
 
 Thus \(d\) must be a divisor of \(C\).  
-Since \(C=37\) is prime, its only divisor \(>1\) is \(d=37\).
+Since \(C=37\) is prime, its only divisor \(&gt;1\) is \(d=37\).
 
-Hence the **next** time (the smallest \(t>0\)) is when  
+Hence the **next** time (the smallest \(t&gt;0\)) is when  
 
 \[
 d=37\;\Longrightarrow\;t=d-1=36 .
@@ -1413,13 +1413,13 @@ The sum of its digits is
 
 \[
 \boxed{11}
-\]<|end_of_text|><|user|> Ellie has two lists, each consisting of 6 consecutive positive integers. The smallest integer in the first list is \(a\), the smallest integer in the second list is \(b\), and \(a < b\). She makes a third list which consists of 36 integers formed by multiplying each number from the first list with each number in the second list. If:
+\]&lt;|end_of_text|&gt;&lt;|user|&gt; Ellie has two lists, each consisting of 6 consecutive positive integers. The smallest integer in the first list is \(a\), the smallest integer in the second list is \(b\), and \(a &lt; b\). She makes a third list which consists of 36 integers formed by multiplying each number from the first list with each number in the second list. If:
 1. The integer 49 appears in the third list,
 2. There is no number in the third list that is a multiple of 64, and
 3. There is at least one number in the third list that is larger than 75,
 Determine all possible pairs \((a, b)\).
 
-<|assistant|> The factorisation \(49=7^2\) forces the product \(49\) to arise either as  
+&lt;|assistant|&gt; The factorisation \(49=7^2\) forces the product \(49\) to arise either as  
 
 * \(1\cdot 49\) (so the first list must contain \(1\) and the second list must contain \(49\)), or  
 * \(7\cdot 7\) (so both lists must contain the integer \(7\)).  
@@ -1453,7 +1453,7 @@ Hence
 a\le7\le a+5,\qquad b\le7\le b+5,
 \]
 
-so \(a,b\in\{2,3,4,5,6,7\}\) with \(a<b\).  
+so \(a,b\in\{2,3,4,5,6,7\}\) with \(a&lt;b\).  
 The possible ordered pairs are  
 
 \[
@@ -1464,8 +1464,8 @@ The possible ordered pairs are
 (6,7).
 \]
 
-#### Condition 3 (product \(>75\))
-A product exceeds \(75\) iff \((a+5)(b+5)>75\).  
+#### Condition 3 (product \(&gt;75\))
+A product exceeds \(75\) iff \((a+5)(b+5)&gt;75\).  
 The pairs that satisfy this are  
 
 \[
@@ -1498,9 +1498,9 @@ Collecting the results from the two cases, the only ordered pairs \((a,b)\) that
 
 \[
 \boxed{(1,49),\;(2,6),\;(2,7)}.
-\]<|end_of_text|><|user|> Compute the sum \( \sin^2 0^\circ + \sin^2 1^\circ + \sin^2 2^\circ + \sin^2 3^\circ + \sin^2 4^\circ + \ldots + \sin^2 99^\circ \).
+\]&lt;|end_of_text|&gt;&lt;|user|&gt; Compute the sum \( \sin^2 0^\circ + \sin^2 1^\circ + \sin^2 2^\circ + \sin^2 3^\circ + \sin^2 4^\circ + \ldots + \sin^2 99^\circ \).
 
-<|assistant|> \[
+&lt;|assistant|&gt; \[
 S=\sum_{k=0}^{99}\sin ^2k^{\circ}
 \]
 
@@ -1567,9 +1567,9 @@ C=\frac{\frac12\bigl[-\sin 19^{\circ}+\sin 1^{\circ}\bigr]}{\sin 1^{\circ}}
 
 \[
 \begin{aligned}
-S&=\frac12\Bigl(100-C\Bigr)\\[2mm]
- &=\frac12\Bigl(100-\tfrac12\bigl(1-\frac{\sin 19^{\circ}}{\sin 1^{\circ}}\bigr)\Bigr)\\[2mm]
- &=\frac{199}{4}+\frac{\sin 19^{\circ}}{4\sin 1^{\circ}} .
+S&amp;=\frac12\Bigl(100-C\Bigr)\\[2mm]
+ &amp;=\frac12\Bigl(100-\tfrac12\bigl(1-\frac{\sin 19^{\circ}}{\sin 1^{\circ}}\bigr)\Bigr)\\[2mm]
+ &amp;=\frac{199}{4}+\frac{\sin 19^{\circ}}{4\sin 1^{\circ}} .
 \end{aligned}
 \]
 
@@ -1596,7 +1596,7 @@ S\approx\frac{199}{4}+ \frac{0.325568154}{4\cdot0.017452406}
 \]
 
 (≈ 54.4136).
-```
+</pre>
 
 </details>
 
@@ -1609,8 +1609,8 @@ S\approx\frac{199}{4}+ \frac{0.325568154}{4\cdot0.017452406}
 <details>
 <summary>Click to expand full sample</summary>
 
-```
-<|user|> Consider the parametric equations defined by:
+<pre>
+&lt;|user|&gt; Consider the parametric equations defined by:
 \[
 x = \frac{3t}{1 + t^2}, \quad y = \frac{3(1 - t^2)}{1 + t^2}, \quad t \in \mathbb{R}.
 \]
@@ -1682,14 +1682,14 @@ y + y t^2 = 3 - 3 t^2,
 \[
 t^2 = \frac{3 - y}{y + 3}.
 \]
-The upper semicircle corresponds to \( y \geq 0 \), and the lower semicircle corresponds to \( y \leq 0 \). For \( y \geq 0 \), \( t^2 \geq 0 \) implies \( \frac{3 - y}{y + 3} \geq 0 \), so \( y \in [0, 3) \). Thus, \( t \) is unrestricted (all real \( t \) give \( y \geq 0 \)). For \( y \leq 0 \), \( t^2 \geq 0 \) implies \( \frac{3 - y}{y + 3} \geq 0 \), but \( y \leq 0 \) gives \( y + 3 \geq 3 > 0 \), so \( 3 - y \geq 0 \) always holds. Thus, \( y \in (-3, 0] \), and \( t \) is again unrestricted. However, note that as \( t \to \pm \infty \), \( x \to 0 \) and \( y \to -3 \). The upper semicircle (\( y \geq 0 \)) is traced for all real \( t \), while the lower semicircle (\( y \leq 0 \)) is also traced for all real \( t \). This suggests the entire ellipse is traced as \( t \) varies over \( \mathbb{R} \).
+The upper semicircle corresponds to \( y \geq 0 \), and the lower semicircle corresponds to \( y \leq 0 \). For \( y \geq 0 \), \( t^2 \geq 0 \) implies \( \frac{3 - y}{y + 3} \geq 0 \), so \( y \in [0, 3) \). Thus, \( t \) is unrestricted (all real \( t \) give \( y \geq 0 \)). For \( y \leq 0 \), \( t^2 \geq 0 \) implies \( \frac{3 - y}{y + 3} \geq 0 \), but \( y \leq 0 \) gives \( y + 3 \geq 3 &gt; 0 \), so \( 3 - y \geq 0 \) always holds. Thus, \( y \in (-3, 0] \), and \( t \) is again unrestricted. However, note that as \( t \to \pm \infty \), \( x \to 0 \) and \( y \to -3 \). The upper semicircle (\( y \geq 0 \)) is traced for all real \( t \), while the lower semicircle (\( y \leq 0 \)) is also traced for all real \( t \). This suggests the entire ellipse is traced as \( t \) varies over \( \mathbb{R} \).
 
 (c) Compute \( \frac{dy}{dx} \) using the chain rule:
 \[
 \frac{dy}{dx} = \frac{dy/dt}{dx/dt}.
 \]
 
-<|assistant|> First, compute \( \frac{dx}{dt} \) and \( \frac{dy}{dt} \):
+&lt;|assistant|&gt; First, compute \( \frac{dx}{dt} \) and \( \frac{dy}{dt} \):
 \[
 x = \frac{3t}{1 + t^2},
 \]
@@ -1748,12 +1748,12 @@ t_2^2 - t_1^2 = t_1^2 - t_2^2,
 \[
 t_2^2 = t_1^2.
 \]
-Thus, \( t_2 = \pm t_1 \). If \( t_2 = t_1 \), contradiction. If \( t_2 = -t_1 \), then from \( 1 = t_1 t_2 \), \( 1 = -t_1^2 \), which has no real solutions. Therefore, \( t_1 = t_2 \), and the curve is traced exactly once.<|end_of_text|><|user|> A local art class is creating a mural inspired by Wayne Thiebaud's famous painted cakes. The mural includes a large circular cake design with a radius of 10 feet. The students plan to paint a shaded sector of the cake to represent a slice of the cake. The shaded sector has a central angle of 72 degrees. 
+Thus, \( t_2 = \pm t_1 \). If \( t_2 = t_1 \), contradiction. If \( t_2 = -t_1 \), then from \( 1 = t_1 t_2 \), \( 1 = -t_1^2 \), which has no real solutions. Therefore, \( t_1 = t_2 \), and the curve is traced exactly once.&lt;|end_of_text|&gt;&lt;|user|&gt; A local art class is creating a mural inspired by Wayne Thiebaud&#x27;s famous painted cakes. The mural includes a large circular cake design with a radius of 10 feet. The students plan to paint a shaded sector of the cake to represent a slice of the cake. The shaded sector has a central angle of 72 degrees. 
 
 1. What is the area of the shaded sector in square feet?
 2. If the students decide to paint the curved edge of the sector (the arc), how long is the arc in feet?
 
-<|assistant|> To solve this problem, we will use concepts from Geometry and Trigonometry.
+&lt;|assistant|&gt; To solve this problem, we will use concepts from Geometry and Trigonometry.
 
 1. **Area of the shaded sector:**
 
@@ -1821,9 +1821,9 @@ Thus, \( t_2 = \pm t_1 \). If \( t_2 = t_1 \), contradiction. If \( t_2 = -t_1 \
 
 In conclusion:
 - The area of the shaded sector is $ 20\pi $ square feet.
-- The length of the arc is $ 4\pi $ feet.<|end_of_text|><|user|> A local park has a rectangular garden with a length that is 3 meters longer than its width. If the perimeter of the garden is 34 meters, what are the dimensions of the garden?
+- The length of the arc is $ 4\pi $ feet.&lt;|end_of_text|&gt;&lt;|user|&gt; A local park has a rectangular garden with a length that is 3 meters longer than its width. If the perimeter of the garden is 34 meters, what are the dimensions of the garden?
 
-<|assistant|> To solve this problem, we need to use the information given to set up an equation and then solve for the dimensions of the garden.
+&lt;|assistant|&gt; To solve this problem, we need to use the information given to set up an equation and then solve for the dimensions of the garden.
 
 1. **Identify Variables**:
    Let \( w \) be the width of the garden in meters.
@@ -1873,9 +1873,9 @@ In conclusion:
 
 Therefore, the dimensions of the garden are:
 - Width: 7 meters
-- Length: 10 meters<|end_of_text|><|user|> A class of 24 students each flipped a coin 10 times as part of an experiment to study probability. They recorded how many times the coin landed on heads. Altogether, the class got 112 heads. What is the experimental probability of getting heads in one coin flip based on this experiment?
+- Length: 10 meters&lt;|end_of_text|&gt;&lt;|user|&gt; A class of 24 students each flipped a coin 10 times as part of an experiment to study probability. They recorded how many times the coin landed on heads. Altogether, the class got 112 heads. What is the experimental probability of getting heads in one coin flip based on this experiment?
 
-<|assistant|> Step 1: Find the total number of coin flips.  
+&lt;|assistant|&gt; Step 1: Find the total number of coin flips.  
 Each student flipped the coin 10 times, and there are 24 students.  
 So, we multiply 24 by 10.  
 24 × 10 = 240 total flips.  
@@ -1892,7 +1892,7 @@ Step 4: Round the result to two decimal places.
 0.4666... is approximately 0.47.  
 
 So, the experimental probability of getting heads in one coin flip is 0.47.
-```
+</pre>
 
 </details>
 
@@ -1905,10 +1905,10 @@ So, the experimental probability of getting heads in one coin flip is 0.47.
 <details>
 <summary>Click to expand full sample</summary>
 
-```
-<|user|> 有没有一些故事充斥着相互的矛盾和冲突，每个人都做出了自己认为正确的选择，但是将故事线或者说从更宏观的层面来看，看似每个人正确的结局却导致了整体上最大的悲剧。以及每个人在生命最后的抉择，都与其身份和描写所矛盾，而有一种强烈的冲击感。这是否表明人们更喜欢某些残缺的故事，类似于华纳的蝙蝠侠和小丑的故事，深刻的让人们去反思传统的道德在现代社会中是否还适用？什么才是一个好人？什么才是一个坏人
+<pre>
+&lt;|user|&gt; 有没有一些故事充斥着相互的矛盾和冲突，每个人都做出了自己认为正确的选择，但是将故事线或者说从更宏观的层面来看，看似每个人正确的结局却导致了整体上最大的悲剧。以及每个人在生命最后的抉择，都与其身份和描写所矛盾，而有一种强烈的冲击感。这是否表明人们更喜欢某些残缺的故事，类似于华纳的蝙蝠侠和小丑的故事，深刻的让人们去反思传统的道德在现代社会中是否还适用？什么才是一个好人？什么才是一个坏人
 
-<|assistant|> 你提出的这个主题非常深刻，确实可以在许多文学和电影作品中找到相互矛盾的角色和冲突的故事情节。这类故事不仅挑战了传统的道德观念，也引发观众对“好人”和“坏人”界限的深思。以下是一些符合你描述的故事和主题，探讨个人选择与整体悲剧之间的矛盾。
+&lt;|assistant|&gt; 你提出的这个主题非常深刻，确实可以在许多文学和电影作品中找到相互矛盾的角色和冲突的故事情节。这类故事不仅挑战了传统的道德观念，也引发观众对“好人”和“坏人”界限的深思。以下是一些符合你描述的故事和主题，探讨个人选择与整体悲剧之间的矛盾。
 
 ### 1. **《蝙蝠侠：黑暗骑士》**
   - **故事背景**：这部电影展示了蝙蝠侠与小丑之间的对立。蝙蝠侠试图维护城市的秩序，而小丑则通过混乱来挑战这一秩序。
@@ -1937,7 +1937,7 @@ So, the experimental probability of getting heads in one coin flip is 0.47.
 ### 结论
 
 人们往往对那些充满矛盾和冲突的故事产生共鸣，因为这些故事反映了人类内心深处的复杂性和脆弱性。它们迫使我们反思道德标准、身份认同以及在面对困境时的选择。这种深刻的冲击感让我们意识到，生活并不像黑白分明的故事那样简单，而是充满了灰色地带和道德困境。
-```
+</pre>
 
 </details>
 
@@ -1950,84 +1950,84 @@ So, the experimental probability of getting heads in one coin flip is 0.47.
 <details>
 <summary>Click to expand full sample</summary>
 
-```
-<|user|> Can you write a code snippet which change the color of this SVG to another one?
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M7.89127 5.92513L5.96127 7.85513C5.85127 7.96513 5.68127 7.96513 5.57127 7.85513L3.68127 5.95513L6.00127 3.63513L7.89127 5.53513C8.00127 5.64513 8.00127 5.81513 7.89127 5.92513Z" fill="#E19747"/>
-<path d="M9.47129 2.00512C9.20129 2.02512 9.00129 2.25512 9.00129 2.52512V5.18512C9.00129 5.43512 8.68129 5.52512 8.54129 5.32512L7.81129 4.20512C7.57129 3.84512 7.00129 4.01512 7.00129 4.44512V6.34512C7.00129 6.71512 6.71129 7.00512 6.35129 7.00512H5.06129C4.67129 7.00512 4.48129 7.47512 4.75129 7.75512L5.57129 8.58512C5.73129 8.73512 5.62129 9.00512 5.40129 9.00512H2.52129C2.25129 9.00512 2.02129 9.20512 2.00129 9.47512C1.99129 9.76512 2.22129 10.0051 2.50129 10.0051H7.37732L9.00129 9.00512L10.0013 7.36592V2.50512C10.0013 2.21512 9.76129 1.98512 9.47129 2.00512Z" fill="#FEEFC2"/>
-<path d="M7.20131 10.0951L10.0713 7.21506C10.3713 6.91506 10.8613 6.92506 11.1813 7.24506C11.4913 7.55506 11.5013 8.05506 11.2013 8.35506L10.7879 10.9139L8.33131 11.2251C8.03131 11.5351 7.53131 11.5151 7.22131 11.2051C6.91131 10.8951 6.90131 10.3951 7.20131 10.0951Z" fill="#44911B"/>
-<path d="M11.3524 15.7537C11.4872 18.9988 12.8273 22.081 15.1313 24.385L20.4713 29.725C20.8313 30.085 21.4213 30.085 21.7913 29.725L29.7313 21.765C30.0913 21.405 30.0913 20.805 29.7313 20.445L24.3913 15.105C22.086 12.7997 19.0015 11.4506 15.7627 11.316L15.6875 11.3788L12.3471 12.5174L11.4141 15.6796L11.3524 15.7537Z" fill="#44911B"/>
-<path d="M6.89128 3.60512L3.60128 6.89512C3.44128 7.05512 3.19128 7.06512 3.03128 6.90512L2.11128 5.98512C1.96128 5.83512 1.96128 5.57512 2.12128 5.41512L5.40128 2.12512C5.56128 1.96512 5.81128 1.95512 5.97128 2.11512L6.90128 3.04512C7.05128 3.19512 7.05128 3.44512 6.89128 3.60512Z" fill="#F3C07B"/>
-<path d="M8.24078 11.3045C8.27254 11.281 8.30283 11.2546 8.33132 11.2251L11.2013 8.35512C11.2478 8.30859 11.2869 8.25726 11.3186 8.20258L11.3413 8.22509L13.9213 10.7951C14.2413 11.1251 14.6913 11.3051 15.1513 11.3051C15.3556 11.3039 15.5594 11.3076 15.7627 11.316L15.6875 11.3789L15.2578 14.4727C15.1965 14.8914 14.9148 15.1926 14.4961 15.2539L11.4141 15.6797L11.3524 15.7537C11.3438 15.5481 11.3401 15.3419 11.3413 15.1351C11.3413 14.6651 11.1613 14.2251 10.8313 13.8951L8.25128 11.3151L8.24078 11.3045Z" fill="#F3C07B"/>
-<path d="M20.9913 26.7751L26.7313 21.0251C26.8513 20.9051 26.8513 20.7051 26.7313 20.5851L23.4213 17.2651C23.3013 17.1451 23.1013 17.1451 22.9813 17.2651L17.2413 23.0151C17.1213 23.1351 17.1213 23.3351 17.2413 23.4551L20.5513 26.7751C20.6713 26.8951 20.8713 26.8951 20.9913 26.7751Z" fill="#F3C07B"/>
-<path d="M12.6713 5.01509C12.6713 5.38512 12.3713 5.68509 12.0013 5.68509C11.6313 5.68509 11.3313 5.38512 11.3313 5.01509C11.3313 4.64506 11.6313 4.34509 12.0013 4.34509C12.3713 4.34509 12.6713 4.64506 12.6713 5.01509Z" fill="#FFDEA7"/>
-<path d="M6.00128 12.0051C6.00128 12.5574 5.55357 13.0051 5.00128 13.0051C4.449 13.0051 4.00128 12.5574 4.00128 12.0051C4.00128 11.4528 4.449 11.0051 5.00128 11.0051C5.55357 11.0051 6.00128 11.4528 6.00128 12.0051Z" fill="#FFDEA7"/>
-</svg>
+<pre>
+&lt;|user|&gt; Can you write a code snippet which change the color of this SVG to another one?
+&lt;svg width=&quot;32&quot; height=&quot;32&quot; viewBox=&quot;0 0 32 32&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;
+&lt;path d=&quot;M7.89127 5.92513L5.96127 7.85513C5.85127 7.96513 5.68127 7.96513 5.57127 7.85513L3.68127 5.95513L6.00127 3.63513L7.89127 5.53513C8.00127 5.64513 8.00127 5.81513 7.89127 5.92513Z&quot; fill=&quot;#E19747&quot;/&gt;
+&lt;path d=&quot;M9.47129 2.00512C9.20129 2.02512 9.00129 2.25512 9.00129 2.52512V5.18512C9.00129 5.43512 8.68129 5.52512 8.54129 5.32512L7.81129 4.20512C7.57129 3.84512 7.00129 4.01512 7.00129 4.44512V6.34512C7.00129 6.71512 6.71129 7.00512 6.35129 7.00512H5.06129C4.67129 7.00512 4.48129 7.47512 4.75129 7.75512L5.57129 8.58512C5.73129 8.73512 5.62129 9.00512 5.40129 9.00512H2.52129C2.25129 9.00512 2.02129 9.20512 2.00129 9.47512C1.99129 9.76512 2.22129 10.0051 2.50129 10.0051H7.37732L9.00129 9.00512L10.0013 7.36592V2.50512C10.0013 2.21512 9.76129 1.98512 9.47129 2.00512Z&quot; fill=&quot;#FEEFC2&quot;/&gt;
+&lt;path d=&quot;M7.20131 10.0951L10.0713 7.21506C10.3713 6.91506 10.8613 6.92506 11.1813 7.24506C11.4913 7.55506 11.5013 8.05506 11.2013 8.35506L10.7879 10.9139L8.33131 11.2251C8.03131 11.5351 7.53131 11.5151 7.22131 11.2051C6.91131 10.8951 6.90131 10.3951 7.20131 10.0951Z&quot; fill=&quot;#44911B&quot;/&gt;
+&lt;path d=&quot;M11.3524 15.7537C11.4872 18.9988 12.8273 22.081 15.1313 24.385L20.4713 29.725C20.8313 30.085 21.4213 30.085 21.7913 29.725L29.7313 21.765C30.0913 21.405 30.0913 20.805 29.7313 20.445L24.3913 15.105C22.086 12.7997 19.0015 11.4506 15.7627 11.316L15.6875 11.3788L12.3471 12.5174L11.4141 15.6796L11.3524 15.7537Z&quot; fill=&quot;#44911B&quot;/&gt;
+&lt;path d=&quot;M6.89128 3.60512L3.60128 6.89512C3.44128 7.05512 3.19128 7.06512 3.03128 6.90512L2.11128 5.98512C1.96128 5.83512 1.96128 5.57512 2.12128 5.41512L5.40128 2.12512C5.56128 1.96512 5.81128 1.95512 5.97128 2.11512L6.90128 3.04512C7.05128 3.19512 7.05128 3.44512 6.89128 3.60512Z&quot; fill=&quot;#F3C07B&quot;/&gt;
+&lt;path d=&quot;M8.24078 11.3045C8.27254 11.281 8.30283 11.2546 8.33132 11.2251L11.2013 8.35512C11.2478 8.30859 11.2869 8.25726 11.3186 8.20258L11.3413 8.22509L13.9213 10.7951C14.2413 11.1251 14.6913 11.3051 15.1513 11.3051C15.3556 11.3039 15.5594 11.3076 15.7627 11.316L15.6875 11.3789L15.2578 14.4727C15.1965 14.8914 14.9148 15.1926 14.4961 15.2539L11.4141 15.6797L11.3524 15.7537C11.3438 15.5481 11.3401 15.3419 11.3413 15.1351C11.3413 14.6651 11.1613 14.2251 10.8313 13.8951L8.25128 11.3151L8.24078 11.3045Z&quot; fill=&quot;#F3C07B&quot;/&gt;
+&lt;path d=&quot;M20.9913 26.7751L26.7313 21.0251C26.8513 20.9051 26.8513 20.7051 26.7313 20.5851L23.4213 17.2651C23.3013 17.1451 23.1013 17.1451 22.9813 17.2651L17.2413 23.0151C17.1213 23.1351 17.1213 23.3351 17.2413 23.4551L20.5513 26.7751C20.6713 26.8951 20.8713 26.8951 20.9913 26.7751Z&quot; fill=&quot;#F3C07B&quot;/&gt;
+&lt;path d=&quot;M12.6713 5.01509C12.6713 5.38512 12.3713 5.68509 12.0013 5.68509C11.6313 5.68509 11.3313 5.38512 11.3313 5.01509C11.3313 4.64506 11.6313 4.34509 12.0013 4.34509C12.3713 4.34509 12.6713 4.64506 12.6713 5.01509Z&quot; fill=&quot;#FFDEA7&quot;/&gt;
+&lt;path d=&quot;M6.00128 12.0051C6.00128 12.5574 5.55357 13.0051 5.00128 13.0051C4.449 13.0051 4.00128 12.5574 4.00128 12.0051C4.00128 11.4528 4.449 11.0051 5.00128 11.0051C5.55357 11.0051 6.00128 11.4528 6.00128 12.0051Z&quot; fill=&quot;#FFDEA7&quot;/&gt;
+&lt;/svg&gt;
 
-<|assistant|> Sure, assuming you want to change only current filled colors with a new color, you can use JavaScript to replace attributes. First, specify the SVG in the HTML:
+&lt;|assistant|&gt; Sure, assuming you want to change only current filled colors with a new color, you can use JavaScript to replace attributes. First, specify the SVG in the HTML:
 
 ```html
-<div id="mySVG">
-    <!-- Your SVG code here -->
-</div>
+&lt;div id=&quot;mySVG&quot;&gt;
+    &lt;!-- Your SVG code here --&gt;
+&lt;/div&gt;
 ```
 
 Then use the following JavaScript code:
 
 ```javascript
 // Specify the new color here
-let newColor = "#FF0000"; // New color is red
+let newColor = &quot;#FF0000&quot;; // New color is red
 
 // Get SVG
-let svg = document.getElementById('mySVG');
+let svg = document.getElementById(&#x27;mySVG&#x27;);
 
 // Get all the paths inside the SVG
-let paths = svg.getElementsByTagName('path');
+let paths = svg.getElementsByTagName(&#x27;path&#x27;);
 
 // Change the fill color of each path
-for (var i=0; i<paths.length; i++) {
-    paths[i].setAttribute('fill', newColor);
+for (var i=0; i&lt;paths.length; i++) {
+    paths[i].setAttribute(&#x27;fill&#x27;, newColor);
 }
 ```
 
-This code will change fill color of all the `path` elements inside the SVG to the new color. Keep in mind that if not every `path` element should be changed, or if there is different colors in different `path` elements, you will need to add conditions to the above loop to only select `path` elements that have the correct original color.<|end_of_text|><|user|> If Martin consumes 1/2 cup of berries daily and the grocery store is selling packages of berries (1 cup per pack) for $2.00, what will be his total expenditure on berries in a period of 30 days?
+This code will change fill color of all the `path` elements inside the SVG to the new color. Keep in mind that if not every `path` element should be changed, or if there is different colors in different `path` elements, you will need to add conditions to the above loop to only select `path` elements that have the correct original color.&lt;|end_of_text|&gt;&lt;|user|&gt; If Martin consumes 1/2 cup of berries daily and the grocery store is selling packages of berries (1 cup per pack) for $2.00, what will be his total expenditure on berries in a period of 30 days?
 
-<|assistant|> Martin consumes 1/2 cup of berries daily, so in 30 days, he will consume 1/2 x 30 = 15 cups of berries.
-The grocery store is selling 1 cup of berries for $2.00, so Martin's total expenditure on berries in 30 days will be 15 x $2.00 = $30.00.
+&lt;|assistant|&gt; Martin consumes 1/2 cup of berries daily, so in 30 days, he will consume 1/2 x 30 = 15 cups of berries.
+The grocery store is selling 1 cup of berries for $2.00, so Martin&#x27;s total expenditure on berries in 30 days will be 15 x $2.00 = $30.00.
 #### 30
-The answer is: 30<|end_of_text|><|user|> A polynomial with integer coefficients is of the form
+The answer is: 30&lt;|end_of_text|&gt;&lt;|user|&gt; A polynomial with integer coefficients is of the form
 \[x^3 + a_2 x^2 + a_1 x - 11 = 0.\]Enter all the possible integer roots of this polynomial, separated by commas.
 
-<|assistant|> By the Rational Root Theorem, any rational root of this polynomial must be a divisor of 11.
+&lt;|assistant|&gt; By the Rational Root Theorem, any rational root of this polynomial must be a divisor of 11.
 The divisors of 11 are $\pm 1$ and $\pm 11$, so the possible integer roots are $\boxed{-11, -1, 1, 11}$.
-The answer is: -11,-1,1,11<|end_of_text|><|user|> You have been given a set of ten numbered boxes, each containing a different amount of gold coins. However, one of the boxes is rigged with a sensor that will trigger an alarm if the box is opened at a certain time. Your task is to find the box with the most coins by opening only two boxes. To complicate matters, you have to do this blindfolded.
+The answer is: -11,-1,1,11&lt;|end_of_text|&gt;&lt;|user|&gt; You have been given a set of ten numbered boxes, each containing a different amount of gold coins. However, one of the boxes is rigged with a sensor that will trigger an alarm if the box is opened at a certain time. Your task is to find the box with the most coins by opening only two boxes. To complicate matters, you have to do this blindfolded.
 How will you come up with a strategy to solve this puzzle without being able to see the boxes? Will you use your other senses or rely on probability? Consider edge cases and unexpected inputs that could throw off your approach. Can you come up with a foolproof plan that guarantees success?
 
-<|assistant|> I'm happy to help you with this puzzle! To start, let's consider the information we have:
+&lt;|assistant|&gt; I&#x27;m happy to help you with this puzzle! To start, let&#x27;s consider the information we have:
 
 1. We have 10 numbered boxes, each containing a different amount of gold coins.
 2. One of the boxes is rigged with a sensor that will trigger an alarm if the box is opened at a certain time.
 3. We have to open only two boxes to find the box with the most coins.
-4. We have to solve the puzzle blindfolded, so we can't see the boxes or their contents.
+4. We have to solve the puzzle blindfolded, so we can&#x27;t see the boxes or their contents.
 
-Now, let's think about how we can use our other senses to help us solve the puzzle. Since we can't see, we'll have to rely on our sense of touch and hearing. Here's a possible strategy:
+Now, let&#x27;s think about how we can use our other senses to help us solve the puzzle. Since we can&#x27;t see, we&#x27;ll have to rely on our sense of touch and hearing. Here&#x27;s a possible strategy:
 
-1. First, we'll use our sense of touch to feel the weight of each box. We can assume that the box with the most coins will be the heaviest.
-2. Next, we'll use our sense of hearing to listen for any sounds that might indicate which box has the sensor. When we open a box, we'll carefully listen for any beeping or other sounds that might indicate that we've triggered the alarm.
-3. Now, let's consider probability. Since we don't know which box has the sensor, we'll have to assume that each box has an equal chance of having the sensor. Therefore, we'll open the first two boxes randomly.
-4. Once we've opened the first two boxes, we'll use our sense of touch to feel the weight of the remaining boxes. Since we've already opened two boxes, we'll have a better idea of the weight distribution of the remaining boxes. We can then choose the heaviest box remaining to open next.
-5. We'll continue this process of opening boxes, using our sense of touch and hearing to guide us, until we've found the box with the most coins.
+1. First, we&#x27;ll use our sense of touch to feel the weight of each box. We can assume that the box with the most coins will be the heaviest.
+2. Next, we&#x27;ll use our sense of hearing to listen for any sounds that might indicate which box has the sensor. When we open a box, we&#x27;ll carefully listen for any beeping or other sounds that might indicate that we&#x27;ve triggered the alarm.
+3. Now, let&#x27;s consider probability. Since we don&#x27;t know which box has the sensor, we&#x27;ll have to assume that each box has an equal chance of having the sensor. Therefore, we&#x27;ll open the first two boxes randomly.
+4. Once we&#x27;ve opened the first two boxes, we&#x27;ll use our sense of touch to feel the weight of the remaining boxes. Since we&#x27;ve already opened two boxes, we&#x27;ll have a better idea of the weight distribution of the remaining boxes. We can then choose the heaviest box remaining to open next.
+5. We&#x27;ll continue this process of opening boxes, using our sense of touch and hearing to guide us, until we&#x27;ve found the box with the most coins.
 
-Now, let's consider edge cases and unexpected inputs that could throw off our approach. What if the box with the sensor is the heaviest box? In that case, we might accidentally trigger the alarm when we open it. To mitigate this risk, we can modify our strategy as follows:
+Now, let&#x27;s consider edge cases and unexpected inputs that could throw off our approach. What if the box with the sensor is the heaviest box? In that case, we might accidentally trigger the alarm when we open it. To mitigate this risk, we can modify our strategy as follows:
 
-1. Instead of opening the heaviest box first, we'll open the lightest box first. This way, if the lightest box has the sensor, we'll trigger the alarm immediately, and we'll know that the heaviest box must be the one with the most coins.
-2. If we don't trigger the alarm when we open the lightest box, we'll proceed with opening the next heaviest box. We'll continue this process until we've found the box with the most coins.
+1. Instead of opening the heaviest box first, we&#x27;ll open the lightest box first. This way, if the lightest box has the sensor, we&#x27;ll trigger the alarm immediately, and we&#x27;ll know that the heaviest box must be the one with the most coins.
+2. If we don&#x27;t trigger the alarm when we open the lightest box, we&#x27;ll proceed with opening the next heaviest box. We&#x27;ll continue this process until we&#x27;ve found the box with the most coins.
 
-I believe this strategy is foolproof, as it takes into account all the available information and minimizes the risk of triggering the alarm. By relying on our sense of touch, hearing, and probability, we can solve the puzzle blindfolded and find the box with the most coins.<|end_of_text|><|user|> Solve the following math problem step-by-step.
+I believe this strategy is foolproof, as it takes into account all the available information and minimizes the risk of triggering the alarm. By relying on our sense of touch, hearing, and probability, we can solve the puzzle blindfolded and find the box with the most coins.&lt;|end_of_text|&gt;&lt;|user|&gt; Solve the following math problem step-by-step.
 Simplify your answer as much as possible. Present your final answer as \boxed{Your Answer}.
 Find the sum of the rational roots of $g(x)=x^3-9x^2+16x-4$.
 
-<|assistant|> Step 1:  The problem requires finding the sum of the rational roots of the given polynomial $g(x) = x^3 - 9x^2 + 16x - 4$.
+&lt;|assistant|&gt; Step 1:  The problem requires finding the sum of the rational roots of the given polynomial $g(x) = x^3 - 9x^2 + 16x - 4$.
 Step 2:  To approach this, we can first apply the Rational Root Theorem to narrow down the possible rational roots of the polynomial.
 Step 3:  According to the Rational Root Theorem, any rational root $p/q$ of $g(x)$ must have $p$ divide the constant term, which is 4, and $q$ divide the leading coefficient, which is 1.
 Step 4:  This information tells us that any rational root must be an integer divisor of 4.
@@ -2038,10 +2038,10 @@ Step 8:  Applying the quadratic formula gives us $x = \frac{7 \pm \sqrt{49 - 8}}
 Step 9:  As these roots are not rational, the sum of the rational roots of $g(x)$ is $\boxed{2}$.
 
 Answer:
-\boxed{2}<|end_of_text|><|user|> could you render this code in lua for me?
+\boxed{2}&lt;|end_of_text|&gt;&lt;|user|&gt; could you render this code in lua for me?
 def fibfib(n, m):
-    if m > n or n < 0 or m < 0:
-        raise ValueError("Invalid arguments passed.")
+    if m &gt; n or n &lt; 0 or m &lt; 0:
+        raise ValueError(&quot;Invalid arguments passed.&quot;)
 
     # Initialize a list to store the sequence value at each step
     fibfib_seq = [0] * max(3, n+1)
@@ -2053,19 +2053,19 @@ def fibfib(n, m):
 
     # Build the sequence recursively
     for i in range(3, n+1):
-        if i < m:
+        if i &lt; m:
             fibfib_seq[i] = fibfib_seq[i-1] + fibfib_seq[i-2] + fibfib_seq[i-3]
         else:
             fibfib_seq[i] = fibfib_seq[i-1] + fibfib_seq[i-2] + fibfib_seq[i-3] - fibfib_seq[i-m]
 
     return fibfib_seq[n]
 
-<|assistant|> Sure, here is the corresponding Lua code:
+&lt;|assistant|&gt; Sure, here is the corresponding Lua code:
 
 ```lua
 function fibfib(n, m)
-    if m > n or n < 0 or m < 0 then
-        error("Invalid arguments passed.")
+    if m &gt; n or n &lt; 0 or m &lt; 0 then
+        error(&quot;Invalid arguments passed.&quot;)
     end
 
     -- Initialize a list to store the sequence value at each step
@@ -2081,7 +2081,7 @@ function fibfib(n, m)
 
     -- Build the sequence recursively
     for i=3, n do
-        if i < m then
+        if i &lt; m then
             fibfib_seq[i] = fibfib_seq[i-1] + fibfib_seq[i-2] + fibfib_seq[i-3]
         else
             fibfib_seq[i] = fibfib_seq[i-1] + fibfib_seq[i-2] + fibfib_seq[i-3] - fibfib_seq[i-m]
@@ -2091,8 +2091,8 @@ function fibfib(n, m)
     return fibfib_seq[n]
 end
 ```
-In Lua, arrays are indexed starting from 1, but in this code, I'm using it starting from 0 to match the Python code behaviour.
-```
+In Lua, arrays are indexed starting from 1, but in this code, I&#x27;m using it starting from 0 to match the Python code behaviour.
+</pre>
 
 </details>
 
@@ -2105,8 +2105,8 @@ In Lua, arrays are indexed starting from 1, but in this code, I'm using it start
 <details>
 <summary>Click to expand full sample</summary>
 
-```
-<|user|> Problem 1. Find all prime numbers $p$ for which there exist positive integers $x, y$ and $z$ such that the number
+<pre>
+&lt;|user|&gt; Problem 1. Find all prime numbers $p$ for which there exist positive integers $x, y$ and $z$ such that the number
 
 $$
 x^{p}+y^{p}+z^{p}-x-y-z
@@ -2114,9 +2114,9 @@ $$
 
 is a product of exactly three distinct prime numbers.
 
-<|assistant|> Solution. Let $A=x^{p}+y^{p}+z^{p}-x-y-z$. For $p=2$, we take $x=y=4$ and $z=3$. Then $A=30=2 \cdot 3 \cdot 5$. For $p=3$ we can take $x=3$ and $y=2$ and $z=1$. Then again $A=30=2 \cdot 3 \cdot 5$. For $p=5$ we can take $x=2$ and $y=1$ and $z=1$. Again $A=30=2 \cdot 3 \cdot 5$.
+&lt;|assistant|&gt; Solution. Let $A=x^{p}+y^{p}+z^{p}-x-y-z$. For $p=2$, we take $x=y=4$ and $z=3$. Then $A=30=2 \cdot 3 \cdot 5$. For $p=3$ we can take $x=3$ and $y=2$ and $z=1$. Then again $A=30=2 \cdot 3 \cdot 5$. For $p=5$ we can take $x=2$ and $y=1$ and $z=1$. Again $A=30=2 \cdot 3 \cdot 5$.
 
-Assume now that $p \geqslant 7$. Working modulo 2 and modulo 3 we see that $A$ is divisible by both 2 and 3. Moreover, by Fermat's Little Theorem, we have
+Assume now that $p \geqslant 7$. Working modulo 2 and modulo 3 we see that $A$ is divisible by both 2 and 3. Moreover, by Fermat&#x27;s Little Theorem, we have
 
 $$
 x^{p}+y^{p}+z^{p}-x-y-z \equiv x+y+z-x-y-z=0 \bmod p \text {. }
@@ -2128,37 +2128,37 @@ $$
 x^{p}+y^{p}+z^{p}-x-y-z=6 p
 $$
 
-If one of the numbers $x, y$ and $z$ is bigger than or equal to 2 , let's say $x \geqslant 2$, then
+If one of the numbers $x, y$ and $z$ is bigger than or equal to 2 , let&#x27;s say $x \geqslant 2$, then
 
 $$
 6 p \geqslant x^{p}-x=x\left(x^{p-1}-1\right) \geqslant 2\left(2^{p-1}-1\right)=2^{p}-2
 $$
 
-It is easy to check by induction that $2^{n}-2>6 n$ for all natural numbers $n \geqslant 6$. This contradiction shows that there are no more values of $p$ which satisfy the required property.
+It is easy to check by induction that $2^{n}-2&gt;6 n$ for all natural numbers $n \geqslant 6$. This contradiction shows that there are no more values of $p$ which satisfy the required property.
 
-Remark. There are a couple of other ways to prove that $2^{p}-2>6 p$ for $p \geqslant 7$. For example, we can use the Binomial Theorem as follows:
-
-$$
-2^{p}-2 \geqslant 1+p+\frac{p(p-1)}{2}+\frac{p(p-1)(p-2)}{6}-2 \geqslant 1+p+3 p+5 p-2>6 p
-$$
-
-We can also use Bernoulli's Inequality as follows:
+Remark. There are a couple of other ways to prove that $2^{p}-2&gt;6 p$ for $p \geqslant 7$. For example, we can use the Binomial Theorem as follows:
 
 $$
-2^{p}-2=8(1+1)^{p-3}-2 \geqslant 8(1+(p-3))-2=8 p-18>6 p
+2^{p}-2 \geqslant 1+p+\frac{p(p-1)}{2}+\frac{p(p-1)(p-2)}{6}-2 \geqslant 1+p+3 p+5 p-2&gt;6 p
 $$
 
-The last inequality is true for $p \geqslant 11$. For $p=7$ we can see directly that $2^{p}-2>6 p$.
+We can also use Bernoulli&#x27;s Inequality as follows:
 
-One can also use calculus to show that $f(x)=2^{x}-6 x$ is increasing for $x \geqslant 5$.<|end_of_text|><|user|> Problem 2. Let $a, b$ be two distinct real numbers and let $c$ be a positive real number such that
+$$
+2^{p}-2=8(1+1)^{p-3}-2 \geqslant 8(1+(p-3))-2=8 p-18&gt;6 p
+$$
+
+The last inequality is true for $p \geqslant 11$. For $p=7$ we can see directly that $2^{p}-2&gt;6 p$.
+
+One can also use calculus to show that $f(x)=2^{x}-6 x$ is increasing for $x \geqslant 5$.&lt;|end_of_text|&gt;&lt;|user|&gt; Problem 2. Let $a, b$ be two distinct real numbers and let $c$ be a positive real number such that
 
 $$
 a^{4}-2019 a=b^{4}-2019 b=c .
 $$
 
-Prove that $-\sqrt{c}<a b<0$.
+Prove that $-\sqrt{c}&lt;a b&lt;0$.
 
-<|assistant|> Solution. Firstly, we see that
+&lt;|assistant|&gt; Solution. Firstly, we see that
 
 $$
 2019(a-b)=a^{4}-b^{4}=(a-b)(a+b)\left(a^{2}+b^{2}\right)
@@ -2168,10 +2168,10 @@ Since $a \neq b$, we get $(a+b)\left(a^{2}+b^{2}\right)=2019$, so $a+b \neq 0$. 
 
 $$
 \begin{aligned}
-2 c & =a^{4}-2019 a+b^{4}-2019 b \\
-& =a^{4}+b^{4}-2019(a+b) \\
-& =a^{4}+b^{4}-(a+b)^{2}\left(a^{2}+b^{2}\right) \\
-& =-2 a b\left(a^{2}+a b+b^{2}\right)
+2 c &amp; =a^{4}-2019 a+b^{4}-2019 b \\
+&amp; =a^{4}+b^{4}-2019(a+b) \\
+&amp; =a^{4}+b^{4}-(a+b)^{2}\left(a^{2}+b^{2}\right) \\
+&amp; =-2 a b\left(a^{2}+a b+b^{2}\right)
 \end{aligned}
 $$
 
@@ -2181,10 +2181,10 @@ $$
 thus $a b-a b$ (the equality does not occur since $a+b \neq 0$ ). So
 
 $$
--c=a b\left(a^{2}+a b+b^{2}\right)<-(a b)^{2} \Longrightarrow(a b)^{2}<c \Rightarrow-\sqrt{c}<a b<\sqrt{c}
+-c=a b\left(a^{2}+a b+b^{2}\right)&lt;-(a b)^{2} \Longrightarrow(a b)^{2}&lt;c \Rightarrow-\sqrt{c}&lt;a b&lt;\sqrt{c}
 $$
 
-Therefore, we have $-\sqrt{c}<a b<0$.
+Therefore, we have $-\sqrt{c}&lt;a b&lt;0$.
 
 Remark. We can get $c=-a b\left(a^{2}+a b+b^{2}\right)$ in several other ways. For example using that,
 
@@ -2192,9 +2192,9 @@ $$
 (a-b) c=a\left(b^{4}-2019 b\right)-b\left(a^{4}-2019 a\right)=a b\left(b^{3}-a^{3}\right)=a b(b-a)\left(a^{2}+a b+b^{2}\right)
 $$
 
-We can also divide $f(x)=x^{4}-2019 x-c$ by $(x-a)(x-b)$ and look at the constant term of the remainder.<|end_of_text|><|user|> Problem 3. Triangle $A B C$ is such that $A B<A C$. The perpendicular bisector of side $B C$ intersects lines $A B$ and $A C$ at points $P$ and $Q$, respectively. Let $H$ be the orthocentre of triangle $A B C$, and let $M$ and $N$ be the midpoints of segments $B C$ and $P Q$, respectively. Prove that lines $H M$ and $A N$ meet on the circumcircle of $A B C$.
+We can also divide $f(x)=x^{4}-2019 x-c$ by $(x-a)(x-b)$ and look at the constant term of the remainder.&lt;|end_of_text|&gt;&lt;|user|&gt; Problem 3. Triangle $A B C$ is such that $A B&lt;A C$. The perpendicular bisector of side $B C$ intersects lines $A B$ and $A C$ at points $P$ and $Q$, respectively. Let $H$ be the orthocentre of triangle $A B C$, and let $M$ and $N$ be the midpoints of segments $B C$ and $P Q$, respectively. Prove that lines $H M$ and $A N$ meet on the circumcircle of $A B C$.
 
-<|assistant|> Solution. We have
+&lt;|assistant|&gt; Solution. We have
 
 $$
 \angle A P Q=\angle B P M=90^{\circ}-\angle M B P=90^{\circ}-\angle C B A=\angle H C B
@@ -2208,7 +2208,7 @@ $$
 
 From these two equalities, we see that the triangles $A P Q$ and $H C B$ are similar. Moreover, since $M$ and $N$ are the midpoints of the segments $B C$ and $P Q$ respectively, then the triangles $A Q N$ and $H B M$ are also similar. Therefore, we have $\angle A N Q=\angle H M B$.
 
-![](https://cdn.mathpix.com/cropped/2024_06_05_fe2687448771fc19bd4eg-4.jpg?height=883&width=545&top_left_y=865&top_left_x=779)
+![](https://cdn.mathpix.com/cropped/2024_06_05_fe2687448771fc19bd4eg-4.jpg?height=883&amp;width=545&amp;top_left_y=865&amp;top_left_x=779)
 
 Let $L$ be the intersection of $A N$ and $H M$. We have
 
@@ -2220,21 +2220,21 @@ Now let $D$ be the point on the circumcircle of $A B C$ diametrically oposite to
 
 Remark. There is a spiral similarity mapping $A Q P$ to $H B C$. Since the similarity maps $A N$ to $H M$, it also maps $A H$ to $N M$, and since these two lines are parallel, the centre of the similarity is $L=A N \cap H M$. Since the similarity maps $B C$ to $Q P$, its centre belongs on the circumcircle of $B C X$, where $X=B Q \cap P C$. But $X$ is the reflection of $A$ on $Q M$ and so it must belong on the circumcircle of $A B C$. Hence so must $L$.
 
-Remark. Students have also submitted correct proofs using radical axes, harmonic quadruples, coordinate geometry and complex numbers.<|end_of_text|><|user|> Problem 4. A $5 \times 100$ table is divided into 500 unit square cells, where $n$ of them are coloured black and the rest are coloured white. Two unit square cells are called adjacent if they share a common side. Each of the unit square cells has at most two adjacent black unit square cells. Find the largest possible value of $n$.
+Remark. Students have also submitted correct proofs using radical axes, harmonic quadruples, coordinate geometry and complex numbers.&lt;|end_of_text|&gt;&lt;|user|&gt; Problem 4. A $5 \times 100$ table is divided into 500 unit square cells, where $n$ of them are coloured black and the rest are coloured white. Two unit square cells are called adjacent if they share a common side. Each of the unit square cells has at most two adjacent black unit square cells. Find the largest possible value of $n$.
 
-<|assistant|> Solution. If we colour all the cells along all edges of the board together with the entire middle row except the second and the last-but-one cell, the condition is satisfied and there are 302 black cells. The figure below exhibits this colouring for the $5 \times 8$ case.
+&lt;|assistant|&gt; Solution. If we colour all the cells along all edges of the board together with the entire middle row except the second and the last-but-one cell, the condition is satisfied and there are 302 black cells. The figure below exhibits this colouring for the $5 \times 8$ case.
 
-![](https://cdn.mathpix.com/cropped/2024_06_05_fe2687448771fc19bd4eg-5.jpg?height=320&width=493&top_left_y=629&top_left_x=816)
+![](https://cdn.mathpix.com/cropped/2024_06_05_fe2687448771fc19bd4eg-5.jpg?height=320&amp;width=493&amp;top_left_y=629&amp;top_left_x=816)
 
 We can cover the table by one fragment like the first one on the figure below, 24 fragments like the middle one, and one fragment like the third one.
 
-![](https://cdn.mathpix.com/cropped/2024_06_05_fe2687448771fc19bd4eg-5.jpg?height=317&width=737&top_left_y=1132&top_left_x=694)
+![](https://cdn.mathpix.com/cropped/2024_06_05_fe2687448771fc19bd4eg-5.jpg?height=317&amp;width=737&amp;top_left_y=1132&amp;top_left_x=694)
 
-In each fragment, among the cells with the same letter, there are at most two coloured black, so the total number of coloured cells is at most $(5+24 \cdot 6+1) \cdot 2+2=302$.<|end_of_text|><|user|> Problem 1. A trapezoid $A B C D(A B \| C D, A B>C D)$ is circumscribed. The incircle of the triangle $A B C$ touches the lines $A B$ and $A C$ at the points $M$ and $N$, respectively. Prove that the incenter of the trapezoid $A B C D$ lies on the line $M N$.
+In each fragment, among the cells with the same letter, there are at most two coloured black, so the total number of coloured cells is at most $(5+24 \cdot 6+1) \cdot 2+2=302$.&lt;|end_of_text|&gt;&lt;|user|&gt; Problem 1. A trapezoid $A B C D(A B \| C D, A B&gt;C D)$ is circumscribed. The incircle of the triangle $A B C$ touches the lines $A B$ and $A C$ at the points $M$ and $N$, respectively. Prove that the incenter of the trapezoid $A B C D$ lies on the line $M N$.
 
-![](https://cdn.mathpix.com/cropped/2024_06_05_bc5716af31e6d23d397cg-1.jpg?height=437&width=643&top_left_y=752&top_left_x=661)
+![](https://cdn.mathpix.com/cropped/2024_06_05_bc5716af31e6d23d397cg-1.jpg?height=437&amp;width=643&amp;top_left_y=752&amp;top_left_x=661)
 
-<|assistant|> ## Solution.
+&lt;|assistant|&gt; ## Solution.
 
 Version 1. Let $I$ be the incenter of triangle $A B C$ and $R$ be the common point of the lines $B I$ and $M N$. Since
 
@@ -2275,13 +2275,13 @@ $$
 A N^{\prime}=\frac{A K+A C}{2}=\frac{A S+A C}{2}=\frac{A B-B S+A C}{2}=\frac{A B+A C-B C}{2}=A N
 $$
 
-We conclude that $N=N^{\prime}$, hence $M=M^{\prime}$, and $R, M, N$ are collinear.<|end_of_text|><|user|> Problem 2. Let $a, b$ and $c$ be positive real numbers. Prove that
+We conclude that $N=N^{\prime}$, hence $M=M^{\prime}$, and $R, M, N$ are collinear.&lt;|end_of_text|&gt;&lt;|user|&gt; Problem 2. Let $a, b$ and $c$ be positive real numbers. Prove that
 
 $$
 \frac{8}{(a+b)^{2}+4 a b c}+\frac{8}{(b+c)^{2}+4 a b c}+\frac{8}{(c+a)^{2}+4 a b c}+a^{2}+b^{2}+c^{2} \geq \frac{8}{a+3}+\frac{8}{b+3}+\frac{8}{c+3}
 $$
 
-<|assistant|> Solution. Since $2 a b \leq a^{2}+b^{2}$, it follows that $(a+b)^{2} \leq 2\left(a^{2}+b^{2}\right)$
+&lt;|assistant|&gt; Solution. Since $2 a b \leq a^{2}+b^{2}$, it follows that $(a+b)^{2} \leq 2\left(a^{2}+b^{2}\right)$
 
 and $4 a b c \leq 2 c\left(a^{2}+b^{2}\right)$, for any positive reals $a, b, c$.
 
@@ -2320,7 +2320,7 @@ and finally
 $$
 \frac{8}{(a+b)^{2}+4 a b c}+\frac{8}{(a+c)^{2}+4 a b c}+\frac{8}{(b+c)^{2}+4 a b c}+a^{2}+b^{2}+c^{2} \geq \frac{8}{a+3}+\frac{8}{b+3}+\frac{8}{c+3}
 $$
-```
+</pre>
 
 </details>
 
