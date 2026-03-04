@@ -185,31 +185,68 @@ def pack_samples(
 # ---------------------------------------------------------------------------
 
 def write_preview_md(packed: List[Dict], path: Path, n: int = 10) -> None:
-    """Write n diverse packed samples as readable markdown."""
-    # Pick samples from different domains
+    """Write overview tables + n diverse full packed samples as readable markdown."""
+    import html as _html
+
+    # Domain distribution
+    domain_counts: Dict[str, int] = defaultdict(int)
+    for p in packed:
+        domain_counts[p["tag"]] += 1
+
+    # Pad stats
+    pad_counts = [p["pad_tokens"] for p in packed]
+    avg_pad = sum(pad_counts) // len(pad_counts)
+    total_tokens = sum(p["token_count"] for p in packed)
+
+    # Pick n diverse samples
     seen = set()
     selected = []
     for p in packed:
         if p["tag"] not in seen and len(selected) < n:
             seen.add(p["tag"])
             selected.append(p)
-    # Fill remaining if fewer than n domains
     for p in packed:
         if len(selected) >= n:
             break
         if p not in selected:
             selected.append(p)
 
-    import html as _html
-
     with open(path, "w", encoding="utf-8") as f:
-        f.write("# Golden Dataset — Packed Samples Preview\n\n")
-        f.write(f"**Config:** {len(packed)} samples x ~{packed[0]['token_count']} tokens each\n\n---\n\n")
+        # --- Overview table ---
+        f.write("# OPUS Golden Dataset — Packed Samples Preview\n\n")
+        f.write("## Overview\n\n")
+        f.write("| Metric | Value |\n|--------|-------|\n")
+        f.write(f"| Total packed samples | **{len(packed)}** |\n")
+        f.write(f"| Tokens per sample | **{packed[0]['token_count']}** (exact) |\n")
+        f.write(f"| Total tokens | **{total_tokens:,}** |\n")
+        f.write(f"| Domains covered | **{len(domain_counts)}** |\n")
+        f.write(f"| Avg padding per sample | {avg_pad} tokens |\n")
+        f.write(f"| Min padding | {min(pad_counts)} tokens |\n")
+        f.write(f"| Max padding | {max(pad_counts)} tokens |\n")
+        f.write("| Format | `<\\|user\\|> ... <\\|assistant\\|> ...` (SFT loss masking ready) |\n")
+        f.write("| Sample separator | `<\\|end_of_text\\|>` |\n")
+        f.write("| Padding token | `<\\|pad\\|>` |\n\n")
+
+        # --- Domain distribution table ---
+        f.write("## Domain Distribution\n\n")
+        f.write("| Domain | Packed Samples |\n|--------|---------------|\n")
+        for tag, count in sorted(domain_counts.items(), key=lambda x: -x[1]):
+            f.write(f"| {tag} | {count} |\n")
+        f.write("\n---\n\n")
+
+        # --- Sample previews ---
+        f.write(f"## {n} Sample Previews (Full {packed[0]['token_count']} Tokens Each)\n\n")
+        f.write("> Each sample below is **exactly 4096 tokens**. The full text is shown.\n")
+        f.write("> Samples contain multiple raw QA pairs packed together, separated by `<|end_of_text|>`.\n")
+        f.write("> Padding at the end is shown as `<|pad|>` tokens.\n\n")
+
         for i, p in enumerate(selected):
-            f.write(f"## Sample {i + 1} — Domain: `{p['tag']}`\n\n")
-            f.write(f"**Token count:** {p['token_count']} | "
-                    f"**Pad tokens:** {p['pad_tokens']} | "
-                    f"**Sources:** {', '.join(p['source_ids'])}\n\n")
+            f.write(f"### Sample {i + 1} — `{p['tag']}`\n\n")
+            f.write(f"| Field | Value |\n|-------|-------|\n")
+            f.write(f"| Token count | {p['token_count']} |\n")
+            f.write(f"| Pad tokens | {p['pad_tokens']} |\n")
+            f.write(f"| Sources | {', '.join(p['source_ids'])} |\n")
+            f.write(f"| ID | {p.get('id', '?')} |\n\n")
             escaped = _html.escape(p["text"])
             f.write(f"<details><summary>Click to expand full 4096-token sample</summary>\n\n"
                     f"<pre>\n{escaped}\n</pre>\n\n</details>\n\n---\n\n")

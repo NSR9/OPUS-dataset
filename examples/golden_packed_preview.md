@@ -1,12 +1,91 @@
-# Golden Dataset — Packed Samples Preview
+# OPUS Golden Dataset — Packed Samples Preview
 
-**Config:** 512 samples x ~4096 tokens each
+## Overview
+
+| Metric | Value |
+|--------|-------|
+| Total packed samples | **512** |
+| Tokens per sample | **4096** (exact) |
+| Total tokens | **2,097,152** |
+| Domains covered | **50** |
+| Avg padding per sample | 603 tokens |
+| Min padding | 0 tokens |
+| Max padding | 3958 tokens |
+| Format | `<\|user\|> ... <\|assistant\|> ...` (SFT loss masking ready) |
+| Sample separator | `<\|end_of_text\|>` |
+| Padding token | `<\|pad\|>` |
+
+## Domain Distribution
+
+| Domain | Packed Samples |
+|--------|---------------|
+| indic_instruction_native | 81 |
+| code_generation | 57 |
+| high_reasoning | 41 |
+| indic_crosslingual_qa_bengali | 41 |
+| instruction_following | 33 |
+| math_competition | 28 |
+| math_hard | 21 |
+| math_olympiad | 18 |
+| general_knowledge | 17 |
+| math_competition_hard | 17 |
+| function_calling | 14 |
+| human_preferred | 14 |
+| indic_summarization_bn | 11 |
+| long_context_multihop | 11 |
+| long_context_qa | 10 |
+| general_qa | 8 |
+| general_preference | 7 |
+| indic_translation_tamil_en | 7 |
+| benchmark_qa | 6 |
+| general_conversation | 6 |
+| indic_instruction | 6 |
+| indic_translation_telugu_en | 6 |
+| indic_summarization_hi | 5 |
+| indic_translation_bengali_en | 5 |
+| indic_translation_hindi_en | 4 |
+| long_context_narrative | 4 |
+| indic_fairness | 3 |
+| linguistic_diagnostics | 3 |
+| long_context_summarization | 3 |
+| indic_cultural_telugu | 2 |
+| indic_knowledge_tamil | 2 |
+| indic_translation_kannada_en | 2 |
+| indic_translation_malayalam_en | 2 |
+| indic_cultural_bengali | 1 |
+| indic_cultural_kannada | 1 |
+| indic_cultural_malayalam | 1 |
+| indic_cultural_odia | 1 |
+| indic_cultural_punjabi | 1 |
+| indic_knowledge_bengali | 1 |
+| indic_knowledge_gujarati | 1 |
+| indic_knowledge_kannada | 1 |
+| indic_knowledge_malayalam | 1 |
+| indic_knowledge_marathi | 1 |
+| indic_knowledge_odia | 1 |
+| indic_knowledge_punjabi | 1 |
+| indic_knowledge_telugu | 1 |
+| indic_translation_gujarati_en | 1 |
+| indic_translation_marathi_en | 1 |
+| linguistic_acceptability | 1 |
+| long_context_retrieval | 1 |
 
 ---
 
-## Sample 1 — Domain: `benchmark_qa`
+## 10 Sample Previews (Full 4096 Tokens Each)
 
-**Token count:** 4096 | **Pad tokens:** 144 | **Sources:** g1302, g1303, g1304, g1305, g1306, g1307, g1308, g1309, g1310
+> Each sample below is **exactly 4096 tokens**. The full text is shown.
+> Samples contain multiple raw QA pairs packed together, separated by `<|end_of_text|>`.
+> Padding at the end is shown as `<|pad|>` tokens.
+
+### Sample 1 — `benchmark_qa`
+
+| Field | Value |
+|-------|-------|
+| Token count | 4096 |
+| Pad tokens | 144 |
+| Sources | g1302, g1303, g1304, g1305, g1306, g1307, g1308, g1309, g1310 |
+| ID | gp1 |
 
 <details><summary>Click to expand full 4096-token sample</summary>
 
@@ -136,9 +215,14 @@ In summary, based on the analysis of the group structure of Z_4 × Z_2 and D_4, 
 
 ---
 
-## Sample 2 — Domain: `code_generation`
+### Sample 2 — `code_generation`
 
-**Token count:** 4096 | **Pad tokens:** 805 | **Sources:** g460, g461, g462, g463
+| Field | Value |
+|-------|-------|
+| Token count | 4096 |
+| Pad tokens | 805 |
+| Sources | g460, g461, g462, g463 |
+| ID | gp7 |
 
 <details><summary>Click to expand full 4096-token sample</summary>
 
@@ -483,9 +567,14 @@ This function effectively handles potential file I/O errors and parsing issues, 
 
 ---
 
-## Sample 3 — Domain: `function_calling`
+### Sample 3 — `function_calling`
 
-**Token count:** 4096 | **Pad tokens:** 52 | **Sources:** g1828, g1829, g1830, g1831, g1832, g1833, g1834, g1835, g1836, g1837, g1838, g1839, g1840, g1841
+| Field | Value |
+|-------|-------|
+| Token count | 4096 |
+| Pad tokens | 52 |
+| Sources | g1828, g1829, g1830, g1831, g1832, g1833, g1834, g1835, g1836, g1837, g1838, g1839, g1840, g1841 |
+| ID | gp64 |
 
 <details><summary>Click to expand full 4096-token sample</summary>
 
@@ -595,9 +684,14 @@ Available tools:
 
 ---
 
-## Sample 4 — Domain: `general_conversation`
+### Sample 4 — `general_conversation`
 
-**Token count:** 4096 | **Pad tokens:** 36 | **Sources:** g1565, g1566, g1567, g1568, g1569, g1570, g1571
+| Field | Value |
+|-------|-------|
+| Token count | 4096 |
+| Pad tokens | 36 |
+| Sources | g1565, g1566, g1567, g1568, g1569, g1570, g1571 |
+| ID | gp78 |
 
 <details><summary>Click to expand full 4096-token sample</summary>
 
@@ -920,9 +1014,14 @@ With this revised code, you can create more diverse characters and simulate thei
 
 ---
 
-## Sample 5 — Domain: `general_knowledge`
+### Sample 5 — `general_knowledge`
 
-**Token count:** 4096 | **Pad tokens:** 1801 | **Sources:** g844, g845, g846, g847
+| Field | Value |
+|-------|-------|
+| Token count | 4096 |
+| Pad tokens | 1801 |
+| Sources | g844, g845, g846, g847 |
+| ID | gp84 |
 
 <details><summary>Click to expand full 4096-token sample</summary>
 
@@ -1100,9 +1199,14 @@ In summary, the proposed solution involves the use of innovative methods such as
 
 ---
 
-## Sample 6 — Domain: `general_preference`
+### Sample 6 — `general_preference`
 
-**Token count:** 4096 | **Pad tokens:** 247 | **Sources:** g1472, g1473, g1474, g1475, g1476, g1477, g1478, g1479, g1480
+| Field | Value |
+|-------|-------|
+| Token count | 4096 |
+| Pad tokens | 247 |
+| Sources | g1472, g1473, g1474, g1475, g1476, g1477, g1478, g1479, g1480 |
+| ID | gp101 |
 
 <details><summary>Click to expand full 4096-token sample</summary>
 
@@ -1388,9 +1492,14 @@ Remember, these are just estimates. Research specific models and dealerships in 
 
 ---
 
-## Sample 7 — Domain: `general_qa`
+### Sample 7 — `general_qa`
 
-**Token count:** 4096 | **Pad tokens:** 26 | **Sources:** g1414, g1415, g1416, g1417, g1418, g1419
+| Field | Value |
+|-------|-------|
+| Token count | 4096 |
+| Pad tokens | 26 |
+| Sources | g1414, g1415, g1416, g1417, g1418, g1419 |
+| ID | gp108 |
 
 <details><summary>Click to expand full 4096-token sample</summary>
 
@@ -1650,9 +1759,14 @@ The concept behind the changes in equilibrium is that a decrease in the cost of 
 
 ---
 
-## Sample 8 — Domain: `high_reasoning`
+### Sample 8 — `high_reasoning`
 
-**Token count:** 4096 | **Pad tokens:** 0 | **Sources:** g1671
+| Field | Value |
+|-------|-------|
+| Token count | 4096 |
+| Pad tokens | 0 |
+| Sources | g1671 |
+| ID | gp116 |
 
 <details><summary>Click to expand full 4096-token sample</summary>
 
@@ -2156,9 +2270,14 @@ class ItemBasedCF(BaseRecommender):
 
 ---
 
-## Sample 9 — Domain: `human_preferred`
+### Sample 9 — `human_preferred`
 
-**Token count:** 4096 | **Pad tokens:** 405 | **Sources:** g1622, g1623, g1624, g1625, g1626, g1627, g1628, g1629, g1630
+| Field | Value |
+|-------|-------|
+| Token count | 4096 |
+| Pad tokens | 405 |
+| Sources | g1622, g1623, g1624, g1625, g1626, g1627, g1628, g1629, g1630 |
+| ID | gp157 |
 
 <details><summary>Click to expand full 4096-token sample</summary>
 
@@ -2323,9 +2442,14 @@ Ambos métodos son eficientes y ampliamente utilizados en la generación de núm
 
 ---
 
-## Sample 10 — Domain: `indic_crosslingual_qa_bengali`
+### Sample 10 — `indic_crosslingual_qa_bengali`
 
-**Token count:** 4096 | **Pad tokens:** 553 | **Sources:** g3517, g3518
+| Field | Value |
+|-------|-------|
+| Token count | 4096 |
+| Pad tokens | 553 |
+| Sources | g3517, g3518 |
+| ID | gp171 |
 
 <details><summary>Click to expand full 4096-token sample</summary>
 
