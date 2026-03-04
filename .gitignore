@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Data (large files)
+*.zip
+*.pt
+examples/golden_packed_512.jsonl
+examples/golden_samples_raw.jsonl
+
+# Build reports (large CSVs)
+tsai_131k_tokenizer/build_report.csv
+tsai_131k_tokenizer/removed_tokens.csv
+
+# Misc
+selection_report*.csv
+selection_report*.json
+baseline.latest.log

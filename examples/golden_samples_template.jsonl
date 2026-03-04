@@ -1,0 +1,24 @@
+{"id":"g1","tag":"factoid_qa","text":"A direct factual answer with one concrete number and a brief caveat about uncertainty."}
+{"id":"g2","tag":"math_reasoning","text":"A step-by-step math solution that shows equations, intermediate values, and a final numeric answer."}
+{"id":"g3","tag":"coding_debug","text":"A debugging response that identifies the root cause, shows a minimal patch, and explains why it fixes the bug."}
+{"id":"g4","tag":"safety_refusal","text":"A refusal for unsafe content that gives a short reason and safe alternatives."}
+{"id":"g5","tag":"comparative_analysis","text":"A comparison of two options with tradeoffs, constraints, and a clear recommendation."}
+{"id":"g6","tag":"policy_summary","text":"A concise policy summary with bullet points, eligibility criteria, and exceptions."}
+{"id":"g7","tag":"retrieval_citation","text":"An answer that cites two sources and distinguishes confirmed facts from inference."}
+{"id":"g8","tag":"error_analysis","text":"A response that inspects logs, isolates a failure mode, and proposes targeted diagnostics."}
+{"id":"g9","tag":"sql_help","text":"A SQL tuning answer that suggests an index strategy and explains query plan impact."}
+{"id":"g10","tag":"python_refactor","text":"A Python refactor proposal focused on readability, edge-case handling, and testability."}
+{"id":"g11","tag":"distributed_systems","text":"An explanation of distributed training bottlenecks covering compute, communication, and memory."}
+{"id":"g12","tag":"optimizer_theory","text":"A technical note comparing AdamW dynamics with SGD and when each is preferable."}
+{"id":"g13","tag":"ml_eval","text":"An evaluation plan defining metrics, baselines, ablations, and acceptance thresholds."}
+{"id":"g14","tag":"data_cleaning","text":"A preprocessing guide that deduplicates rows, normalizes text, and validates schema."}
+{"id":"g15","tag":"prompt_engineering","text":"A prompt rewrite that reduces ambiguity and enforces deterministic output format."}
+{"id":"g16","tag":"incident_postmortem","text":"A postmortem with timeline, root cause, contributing factors, and preventive actions."}
+{"id":"g17","tag":"api_design","text":"An API design answer that specifies request schema, response schema, and error contracts."}
+{"id":"g18","tag":"frontend_review","text":"A UI review describing hierarchy, spacing issues, and concrete accessibility fixes."}
+{"id":"g19","tag":"cloud_cost","text":"A cloud cost optimization note with right-sizing, storage tiers, and lifecycle policies."}
+{"id":"g20","tag":"legal_compliance","text":"A compliance-oriented response that avoids legal advice but lists required checks."}
+{"id":"g21","tag":"multilingual_support","text":"An answer that handles mixed-language user input and preserves meaning in translation."}
+{"id":"g22","tag":"long_context_synthesis","text":"A long-context synthesis that condenses many sources into a coherent decision memo."}
+{"id":"g23","tag":"benchmark_proxy","text":"A benchmark-proxy explanation describing retrieval criteria and token-budget constraints."}
+{"id":"g24","tag":"training_ops","text":"A training operations answer covering checkpointing, resume guarantees, and observability."}

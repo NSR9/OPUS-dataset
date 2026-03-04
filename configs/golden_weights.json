@@ -1,0 +1,17 @@
+{
+  "_comment": "Domain weights for golden dataset allocation. Default: uniform (1/12 each). Modify to change distribution. Weights are normalized — they don't need to sum to 1.0.",
+  "domain_weights": {
+    "Math": 1.0,
+    "Code": 1.0,
+    "Knowledge/QA": 1.0,
+    "Preference/Reasoning": 1.0,
+    "Tool Use": 1.0,
+    "Instruction Following": 1.0,
+    "Truthfulness": 1.0,
+    "Long Context": 1.0,
+    "Indic NLU": 1.0,
+    "Indic Domain Knowledge": 1.0,
+    "Indic Gen/Translation": 1.0,
+    "Linguistic Diagnostics": 1.0
+  }
+}

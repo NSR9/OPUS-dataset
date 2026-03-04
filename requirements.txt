@@ -1,0 +1,8 @@
+torch
+transformers==4.40.0
+datasets
+deepspeed
+ninja
+triton
+huggingface_hub
+flash-linear-attention

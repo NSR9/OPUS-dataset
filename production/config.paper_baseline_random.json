@@ -1,0 +1,61 @@
+{
+  "model": {
+    "target": "1b",
+    "embedding_type": "standard",
+    "vocab_size": 50612,
+    "hidden_size": null,
+    "num_layers": null,
+    "num_real_experts": null,
+    "num_null_experts": null,
+    "top_k": null,
+    "data_sparsity": null
+  },
+  "data": {
+    "dataset_name": "PleIAs/SYNTH",
+    "local_path": "../synth_local_en",
+    "filter_language": "en",
+    "seed": 42,
+    "num_workers": 2
+  },
+  "train": {
+    "total_steps": 500,
+    "learning_rate": 0.0002,
+    "weight_decay": 0.0,
+    "betas": [0.9, 0.95],
+    "eps": 1e-8,
+    "grad_clip": 1.0,
+    "seq_len_train": 512,
+    "micro_batch_size": 1,
+    "grad_accum_steps": 1,
+    "checkpoint_every": 250,
+    "log_every": 10,
+    "checkpoint_dir": "checkpoints_prod_paper_random",
+    "step_metrics_log_path": "step_timing_paper_random.jsonl",
+    "step_metrics_log_every": 1,
+    "deepspeed_config": "production/deepspeed_zero2_config.json",
+    "use_bf16": true
+  },
+  "opus": {
+    "enabled": true,
+    "selection_mode": "random",
+    "candidate_multiplier": 32,
+    "selection_ratio": 0.5,
+    "score_seq_len": 512,
+    "proxy_batch_size": 8,
+    "sketch_dim": 8192,
+    "temperature": 0.9,
+    "sketch_seed": 42,
+    "fallback_random_on_error": true,
+    "max_selector_time_s": 30.0,
+    "include_embeddings": false,
+    "include_lm_head": false,
+    "score_dtype": "bf16",
+    "track_nonfinite_stats": false,
+    "zero2_exact_global_scoring": true,
+    "strict_shard_preconditioner": true,
+    "benchmark_dual_mode": false,
+    "benchmark_every": 100,
+    "benchmark_warmup_steps": 20,
+    "benchmark_log_path": "selector_benchmark_paper_random.jsonl"
+  }
+}
