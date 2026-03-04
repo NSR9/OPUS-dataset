@@ -23,6 +23,7 @@ import json
 import logging
 import os
 import random
+import re
 import sys
 import time
 import traceback
@@ -90,6 +91,15 @@ def _clean(s: str) -> str:
 def _fmt(user: str, assistant: str) -> str:
     """Canonical <|user|>/<|assistant|> formatting for SFT loss masking."""
     return f"<|user|> {_clean(user).strip()}\n\n<|assistant|> {_clean(assistant).strip()}"
+
+
+# Regex covering CJK Unified Ideographs + Extension A/B + CJK Compatibility
+_CJK_RE = re.compile(r'[\u4e00-\u9fff\u3400-\u4dbf\U00020000-\U0002a6df\u3000-\u303f]')
+
+
+def _has_cjk(text: str) -> bool:
+    """Return True if text contains any CJK (Chinese/Japanese/Korean) characters."""
+    return bool(_CJK_RE.search(text))
 
 
 def _fmt_fim(prefix: str, suffix: str, middle: str) -> str:
@@ -2335,6 +2345,11 @@ def main():
                 samples = proc_fn(target_n)
                 dt = time.time() - t0
                 if samples:
+                    # Filter out Chinese / CJK samples globally
+                    before = len(samples)
+                    samples = [s for s in samples if not _has_cjk(s.get("text", ""))]
+                    if before != len(samples):
+                        log.info("  => filtered %d CJK samples", before - len(samples))
                     all_samples.extend(samples)
                     log.info("  => %d/%d samples in %.1fs", len(samples), target_n, dt)
                 else:
