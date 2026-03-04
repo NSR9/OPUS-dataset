@@ -200,16 +200,19 @@ def write_preview_md(packed: List[Dict], path: Path, n: int = 10) -> None:
         if p not in selected:
             selected.append(p)
 
+    import html as _html
+
     with open(path, "w", encoding="utf-8") as f:
         f.write("# Golden Dataset — Packed Samples Preview\n\n")
         f.write(f"**Config:** {len(packed)} samples x ~{packed[0]['token_count']} tokens each\n\n---\n\n")
         for i, p in enumerate(selected):
             f.write(f"## Sample {i + 1} — Domain: `{p['tag']}`\n\n")
-            f.write(f"**Token count:** {p['token_count']} | **Sources:** {', '.join(p['source_ids'])}\n\n")
-            preview = p["text"][:3000]
-            if len(p["text"]) > 3000:
-                preview += "\n\n... [truncated]"
-            f.write(f"```\n{preview}\n```\n\n---\n\n")
+            f.write(f"**Token count:** {p['token_count']} | "
+                    f"**Pad tokens:** {p['pad_tokens']} | "
+                    f"**Sources:** {', '.join(p['source_ids'])}\n\n")
+            escaped = _html.escape(p["text"])
+            f.write(f"<details><summary>Click to expand full 4096-token sample</summary>\n\n"
+                    f"<pre>\n{escaped}\n</pre>\n\n</details>\n\n---\n\n")
 
     log.info("Wrote %d-sample preview to %s", len(selected), path)
 
