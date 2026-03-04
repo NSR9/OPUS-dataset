@@ -18,6 +18,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import logging
 import sys
@@ -108,8 +109,28 @@ def pack_samples(
 
     packed: List[Dict] = []
     cross_leftover: list = []  # list of tokenized dicts
+    _used_sample_hashes: set = set()  # track used raw samples by text hash
+    dup_skipped = 0
 
+    # Deduplicate raw samples: each unique text used at most once
+    deduped_by_domain: Dict[str, list] = {}
     for domain, samples in sorted(by_domain.items()):
+        deduped = []
+        for s in samples:
+            h = hashlib.sha256(
+                tokenizer.decode(s["ids"]).encode()
+            ).hexdigest()
+            if h not in _used_sample_hashes:
+                _used_sample_hashes.add(h)
+                deduped.append(s)
+            else:
+                dup_skipped += 1
+        deduped_by_domain[domain] = deduped
+
+    if dup_skipped:
+        log.info("Dedup: skipped %d duplicate raw samples across domains", dup_skipped)
+
+    for domain, samples in sorted(deduped_by_domain.items()):
         buf: List[int] = []
         buf_source_ids: List[str] = []
 
@@ -135,6 +156,7 @@ def pack_samples(
         if buf:
             # Store leftover as a single chunk to preserve domain grouping
             cross_leftover.append({
+                "tag": domain,
                 "ids": buf,
                 "source_ids": buf_source_ids,
             })
@@ -158,6 +180,21 @@ def pack_samples(
     # Final cross-domain bin (pad even if underfilled)
     if buf:
         packed.append(_emit_bin(buf, "cross_domain", buf_source_ids))
+
+    # Deduplicate packed records: remove identical packed bins
+    seen_packed_hashes: set = set()
+    unique_packed: List[Dict] = []
+    packed_dup_removed = 0
+    for p in packed:
+        h = hashlib.sha256(p["text"].encode()).hexdigest()
+        if h not in seen_packed_hashes:
+            seen_packed_hashes.add(h)
+            unique_packed.append(p)
+        else:
+            packed_dup_removed += 1
+    if packed_dup_removed:
+        log.info("Dedup: removed %d identical packed records", packed_dup_removed)
+    packed = unique_packed
 
     # Assign IDs
     for i, p in enumerate(packed):

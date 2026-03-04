@@ -19,6 +19,7 @@ Some gated datasets may require: huggingface-cli login
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import logging
 import os
@@ -29,6 +30,10 @@ import time
 import traceback
 from pathlib import Path
 from typing import Any, Dict, List, Optional
+
+# Import text cleaning from clean_golden_samples.py
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from clean_golden_samples import clean_text
 
 # ---------------------------------------------------------------------------
 # Logging setup
@@ -100,6 +105,39 @@ _CJK_RE = re.compile(r'[\u4e00-\u9fff\u3400-\u4dbf\U00020000-\U0002a6df\u3000-\u
 def _has_cjk(text: str) -> bool:
     """Return True if text contains any CJK (Chinese/Japanese/Korean) characters."""
     return bool(_CJK_RE.search(text))
+
+
+def _extract_content_key(text: str) -> str:
+    """Extract a prompt-agnostic content key for cross-format dedup.
+
+    Strips the <|user|>/<|assistant|> framing and common translation prompt
+    prefixes so the same translation pair is detected even when wrapped in
+    different prompts (e.g. BPCC "Translate the following Tamil text to
+    English" vs IN22-Gen "Translate to Tamil").
+
+    Returns a SHA-256 hex digest of the sorted, normalised content fragments,
+    or "" if nothing meaningful could be extracted.
+    """
+    # Split into user/assistant parts
+    parts = text.split("<|assistant|>")
+    if len(parts) < 2:
+        return ""
+    user_part = parts[0].replace("<|user|>", "").strip()
+    assistant_part = parts[1].strip()
+
+    # Strip known translation prompt prefixes to get raw content
+    user_content = re.sub(
+        r'^Translate\s+(the\s+following\s+\w+\s+text\s+to\s+\w+|to\s+\w+)\s*:\s*',
+        '', user_part, flags=re.IGNORECASE
+    ).strip()
+
+    if not user_content or not assistant_part:
+        return ""
+
+    # Sort the two pieces so (A->B) and (B->A) collide
+    fragments = sorted([user_content.lower(), assistant_part.lower()])
+    combined = "|||".join(fragments)
+    return hashlib.sha256(combined.encode()).hexdigest()
 
 
 def _fmt_fim(prefix: str, suffix: str, middle: str) -> str:
@@ -2325,6 +2363,8 @@ def main():
     all_samples: List[Dict] = []
     failed: List[str] = []
     skipped: List[str] = []
+    _seen_texts: set = set()        # global dedup by SHA-256 of full text
+    _seen_content: set = set()      # content-level dedup (catches same pair across different prompts)
 
     # Build a lookup: dataset_id -> (processor, gated)
     processor_lookup = {ds_id: (proc, gated)
@@ -2345,11 +2385,36 @@ def main():
                 samples = proc_fn(target_n)
                 dt = time.time() - t0
                 if samples:
-                    # Filter out Chinese / CJK samples globally
                     before = len(samples)
+                    # 1. Clean text (dot-leaders, control chars, whitespace)
+                    for s in samples:
+                        if "text" in s:
+                            s["text"] = clean_text(s["text"])
+                    # 2. Filter out Chinese / CJK samples
                     samples = [s for s in samples if not _has_cjk(s.get("text", ""))]
-                    if before != len(samples):
-                        log.info("  => filtered %d CJK samples", before - len(samples))
+                    cjk_removed = before - len(samples)
+                    # 3. Deduplicate by SHA-256 of full text + content-level dedup
+                    deduped = []
+                    for s in samples:
+                        text = s.get("text", "")
+                        # Full-text hash dedup (catches exact duplicates)
+                        text_hash = hashlib.sha256(text.encode()).hexdigest()
+                        if text_hash in _seen_texts:
+                            continue
+                        # Content-level dedup: extract the actual content
+                        # (strips prompt framing so same translation pair
+                        #  is caught even across different prompt formats)
+                        content_key = _extract_content_key(text)
+                        if content_key and content_key in _seen_content:
+                            continue
+                        _seen_texts.add(text_hash)
+                        if content_key:
+                            _seen_content.add(content_key)
+                        deduped.append(s)
+                    dup_removed = len(samples) - len(deduped)
+                    samples = deduped
+                    if cjk_removed or dup_removed:
+                        log.info("  => filtered %d CJK, %d duplicates", cjk_removed, dup_removed)
                     all_samples.extend(samples)
                     log.info("  => %d/%d samples in %.1fs", len(samples), target_n, dt)
                 else:
